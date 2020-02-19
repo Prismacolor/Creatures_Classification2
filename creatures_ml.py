@@ -5,7 +5,8 @@ import pandas
 
 from sklearn import preprocessing
 from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import MultinomialNB
+# from sklearn.naive_bayes import MultinomialNB
+from sklearn.naive_bayes import GaussianNB
 
 # retrieving the data from the spreadsheet TR
 creatures_file = "Creatures.xlsx"
@@ -41,7 +42,7 @@ def classify_data(data_frame):
     # print(X_train, X_test, y_train, y_test)
 
     # create the classification model   TR
-    the_model = MultinomialNB().fit(X_train, y_train)
+    the_model = GaussianNB().fit(X_train, y_train)
 
     # test out the model
     predicted = the_model.predict(X_test)
@@ -49,6 +50,7 @@ def classify_data(data_frame):
     # print(y_test)
     # print(predicted)
     print(numpy.mean(predicted == y_test))
+    print("Total points: ", (X_test.shape[0], "Mislabelled: ", (y_test != predicted).sum()))
 
     return the_model
 
@@ -58,7 +60,8 @@ def test_data(data_frame, model):
     y = data_frame.iloc[:, -1]
     predicted2 = model.predict(X)
 
-    print(numpy.mean(predicted2 == y))
+    # print(numpy.mean(predicted2 == y))
+    print("Total points: ", (X.shape[0], "Mislabelled: ", (y != predicted2).sum()))
 
 
 # create initial model
