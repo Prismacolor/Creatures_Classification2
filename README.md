@@ -1,2 +1,4 @@
 # ML_Playground_1
-Playing around with ML
+An initial foray into machine learning and classification algorithms. 
+
+This is a script I made to help me classify certain kinds of creatures. 
