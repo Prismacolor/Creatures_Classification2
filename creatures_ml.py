@@ -5,16 +5,23 @@ import pandas
 
 from sklearn import preprocessing
 from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import MultinomialNB
+# from sklearn.naive_bayes import MultinomialNB
+from sklearn.naive_bayes import GaussianNB
 
 # retrieving the data from the spreadsheet TR
-creatures_file = "C:\\Users\\Tay042919\\PycharmProjects\\ML_Playground\\Creatures.xlsx"
+creatures_file = "Creatures.xlsx"
 creatures_extract = pandas.read_excel(creatures_file)
 creatures_df = pandas.DataFrame(creatures_extract)
 
 # we do not need this initial column, contains no useful data TR
 del creatures_df['Creature']
 # print(creatures_df)
+
+# prep the second test set
+test_file = "creatures_test_set.xlsx"
+test_extract = pandas.read_excel(test_file)
+test_df = pandas.DataFrame(test_extract)
+del test_df['Creature']
 
 
 # need to adjust final column to be numbers only TR
@@ -35,23 +42,32 @@ def classify_data(data_frame):
     # print(X_train, X_test, y_train, y_test)
 
     # create the classification model   TR
-    the_model = MultinomialNB().fit(X_train, y_train)
+    the_model = GaussianNB().fit(X_train, y_train)
 
     # test out the model
     predicted = the_model.predict(X_test)
 
-    print(y_test)
-    print(predicted)
+    # print(y_test)
+    # print(predicted)
     print(numpy.mean(predicted == y_test))
+    print("Total points: ", (X_test.shape[0], "Mislabelled: ", (y_test != predicted).sum()))
+
+    return the_model
 
 
+def test_data(data_frame, model):
+    X = data_frame.iloc[:, 0: -1]
+    y = data_frame.iloc[:, -1]
+    predicted2 = model.predict(X)
+
+    # print(numpy.mean(predicted2 == y))
+    print("Total points: ", (X.shape[0], "Mislabelled: ", (y != predicted2).sum()))
+
+
+# create initial model
 creatures_fitted_df = adjust_data(creatures_df)
-classify_data(creatures_fitted_df)
+my_model = classify_data(creatures_fitted_df)
 
-'''C:\Python\Python37-32\python.exe C:/Users/Tay042919/PycharmProjects/ML_Playground/creatures_ml.py
-success
-[3 2 0 0 2 0 2 3 1 2 0 3 3 3 1 1 3 2 0 2 3 1 2 3 2 2 2 2 0 0 2 1 3 2 0 2 0
- 1 3 3 2 3]
-1.0
-
-Process finished with exit code 0'''
+# test it out
+adjusted_test_data = adjust_data(test_df)
+test_data(adjusted_test_data, my_model)
