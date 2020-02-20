@@ -8,27 +8,44 @@ from sklearn.model_selection import train_test_split
 # from sklearn.naive_bayes import MultinomialNB
 from sklearn.naive_bayes import GaussianNB
 
+
 # retrieving the data from the spreadsheet TR
-creatures_file = "Creatures.xlsx"
-creatures_extract = pandas.read_excel(creatures_file)
+creatures_file = r'data_samples\creatures_data_set.csv'
+creatures_extract = pandas.read_csv(creatures_file)
 creatures_df = pandas.DataFrame(creatures_extract)
 
 # we do not need this initial column, contains no useful data TR
-del creatures_df['Creature']
-# print(creatures_df)
+del creatures_df['Number']
 
 # prep the second test set
-test_file = "creatures_test_set.xlsx"
-test_extract = pandas.read_excel(test_file)
+test_file = r'data_samples\creatures_test_set.csv'
+test_extract = pandas.read_csv(test_file)
 test_df = pandas.DataFrame(test_extract)
-del test_df['Creature']
+del test_df['Number']
 
 
 # need to adjust final column to be numbers only TR
 def adjust_data(my_dataframe):
-    data_encoder = preprocessing.LabelEncoder()
-    my_dataframe.iloc[:, -1] = data_encoder.fit_transform(my_dataframe.iloc[:, -1])
+    # in refinement, may use these mappings vs encoding
+    environment_mappings: {'air': 0,
+                           'cave': 1,
+                           'desert': 2,
+                           'swamp': 3,
+                           'volcanoes': 4,
+                           'water': 5,
+                           'woods': 6
+                           }
 
+    creature_mappings: {'Dragon': 0,
+                        'Drake': 1,
+                        'Flying Serpent': 2,
+                        'Serpent': 3,
+                        'Wyrm': 4,
+                        'Wyvern': 5}
+
+    data_encoder = preprocessing.LabelEncoder()
+    my_dataframe['Environment'] = data_encoder.fit_transform(my_dataframe['Environment'])
+    my_dataframe['Classification'] = data_encoder.fit_transform(my_dataframe['Classification'])
     # print(my_dataframe)
     return my_dataframe
 

@@ -1,0 +1,3061 @@
+Number,Legs,Wings,Length,Height,Environment,Classification
+1,0,2,292,102,air,Flying Serpent
+2,2,2,147,215,volcanoes,Wyvern
+3,4,2,148,85,cave,Dragon
+4,4,0,228,71,woods,Serpent
+5,0,4,284,99,air,Flying Serpent
+6,4,0,304,35,cave,Wyrm
+7,2,2,196,68,volcanoes,Drake
+8,2,2,210,60,desert,Drake
+9,0,0,249,62,air,Serpent
+10,4,6,165,82,volcanoes,Dragon
+11,4,2,197,67,volcanoes,Drake
+12,4,0,344,49,swamp,Wyrm
+13,0,4,274,120,air,Flying Serpent
+14,4,0,303,41,cave,Wyrm
+15,4,2,151,81,volcanoes,Dragon
+16,4,0,304,46,cave,Wyrm
+17,0,4,278,120,air,Flying Serpent
+18,2,2,192,69,water,Drake
+19,0,0,220,57,air,Serpent
+20,4,0,318,42,swamp,Wyrm
+21,0,0,230,77,water,Serpent
+22,2,2,132,223,volcanoes,Wyvern
+23,2,2,131,207,volcanoes,Wyvern
+24,2,2,212,52,desert,Drake
+25,2,4,127,211,volcanoes,Wyvern
+26,0,4,301,108,air,Flying Serpent
+27,4,0,233,50,woods,Serpent
+28,4,0,239,68,water,Serpent
+29,2,2,206,51,desert,Drake
+30,0,0,238,79,air,Serpent
+31,4,0,304,41,swamp,Wyrm
+32,2,2,217,53,volcanoes,Drake
+33,0,0,223,53,woods,Serpent
+34,4,2,194,57,volcanoes,Drake
+35,2,4,136,214,volcanoes,Wyvern
+36,4,2,125,73,cave,Dragon
+37,4,0,312,36,swamp,Wyrm
+38,4,0,238,56,swamp,Serpent
+39,4,0,234,65,water,Serpent
+40,2,2,222,53,water,Drake
+41,0,4,282,103,air,Flying Serpent
+42,2,4,139,202,volcanoes,Wyvern
+43,2,4,140,202,volcanoes,Wyvern
+44,2,2,149,196,volcanoes,Wyvern
+45,2,2,127,183,volcanoes,Wyvern
+46,4,4,151,77,volcanoes,Dragon
+47,2,2,136,197,volcanoes,Wyvern
+48,4,2,211,73,desert,Drake
+49,0,0,234,64,air,Serpent
+50,0,4,292,99,air,Flying Serpent
+51,0,2,293,117,air,Flying Serpent
+52,4,0,327,36,swamp,Wyrm
+53,2,2,127,191,volcanoes,Wyvern
+54,2,2,142,176,volcanoes,Wyvern
+55,4,2,161,72,mountain,Dragon
+56,4,2,153,79,mountain,Dragon
+57,4,2,185,74,water,Drake
+58,0,2,312,109,air,Flying Serpent
+59,0,0,220,56,swamp,Serpent
+60,4,6,125,98,volcanoes,Dragon
+61,2,4,119,194,volcanoes,Wyvern
+62,2,4,116,192,volcanoes,Wyvern
+63,4,0,320,49,cave,Wyrm
+64,2,4,132,211,volcanoes,Wyvern
+65,2,2,201,67,volcanoes,Drake
+66,2,2,218,56,desert,Drake
+67,0,4,303,123,air,Flying Serpent
+68,2,2,135,212,volcanoes,Wyvern
+69,4,0,300,48,swamp,Wyrm
+70,4,0,307,38,cave,Wyrm
+71,4,2,222,57,volcanoes,Drake
+72,2,2,196,60,water,Drake
+73,4,2,222,52,volcanoes,Drake
+74,4,0,327,36,cave,Wyrm
+75,2,2,141,211,volcanoes,Wyvern
+76,4,2,213,66,water,Drake
+77,4,0,228,72,water,Serpent
+78,4,2,213,74,volcanoes,Drake
+79,0,4,250,116,air,Flying Serpent
+80,0,4,308,99,air,Flying Serpent
+81,0,2,286,117,air,Flying Serpent
+82,4,0,307,45,cave,Wyrm
+83,0,2,304,123,air,Flying Serpent
+84,4,0,332,48,swamp,Wyrm
+85,4,0,330,49,swamp,Wyrm
+86,2,4,145,195,volcanoes,Wyvern
+87,4,4,160,92,volcanoes,Dragon
+88,4,6,159,97,volcanoes,Dragon
+89,0,0,229,66,swamp,Serpent
+90,4,0,232,71,air,Serpent
+91,0,2,312,104,air,Flying Serpent
+92,4,6,164,94,volcanoes,Dragon
+93,0,2,297,122,air,Flying Serpent
+94,2,4,115,189,volcanoes,Wyvern
+95,0,0,226,77,swamp,Serpent
+96,4,2,190,72,water,Drake
+97,0,0,222,54,water,Serpent
+98,2,4,141,204,volcanoes,Wyvern
+99,4,0,234,75,swamp,Serpent
+100,4,0,307,38,swamp,Wyrm
+101,4,2,168,88,cave,Dragon
+102,4,0,219,69,swamp,Serpent
+103,4,0,334,41,cave,Wyrm
+104,4,2,208,56,water,Drake
+105,4,2,155,90,volcanoes,Dragon
+106,0,4,266,118,air,Flying Serpent
+107,4,2,188,69,volcanoes,Drake
+108,4,0,215,54,air,Serpent
+109,2,2,194,60,desert,Drake
+110,4,0,316,45,swamp,Wyrm
+111,4,2,134,77,cave,Dragon
+112,0,0,224,50,swamp,Serpent
+113,0,0,215,50,swamp,Serpent
+114,4,2,195,71,water,Drake
+115,0,0,239,71,woods,Serpent
+116,4,2,199,68,water,Drake
+117,0,4,301,114,air,Flying Serpent
+118,0,0,242,70,water,Serpent
+119,2,4,142,186,volcanoes,Wyvern
+120,2,4,144,204,volcanoes,Wyvern
+121,2,2,212,60,volcanoes,Drake
+122,2,2,120,187,volcanoes,Wyvern
+123,4,2,197,52,water,Drake
+124,4,0,327,39,swamp,Wyrm
+125,4,0,224,56,water,Serpent
+126,0,4,283,102,air,Flying Serpent
+127,4,2,204,52,desert,Drake
+128,4,0,328,38,cave,Wyrm
+129,4,0,242,65,woods,Serpent
+130,4,2,136,76,mountain,Dragon
+131,0,2,311,111,air,Flying Serpent
+132,4,0,306,48,swamp,Wyrm
+133,4,2,209,62,water,Drake
+134,4,4,146,66,volcanoes,Dragon
+135,0,4,289,121,air,Flying Serpent
+136,4,0,218,78,water,Serpent
+137,2,4,132,183,volcanoes,Wyvern
+138,4,2,143,76,mountain,Dragon
+139,0,4,277,99,air,Flying Serpent
+140,4,2,126,71,mountain,Dragon
+141,0,2,296,118,air,Flying Serpent
+142,4,4,163,76,cave,Dragon
+143,4,2,167,80,mountain,Dragon
+144,2,2,202,66,volcanoes,Drake
+145,0,4,264,101,air,Flying Serpent
+146,2,2,204,52,desert,Drake
+147,0,2,285,117,air,Flying Serpent
+148,2,2,191,54,water,Drake
+149,2,2,116,203,volcanoes,Wyvern
+150,0,4,306,108,air,Flying Serpent
+151,2,2,220,68,volcanoes,Drake
+152,4,4,127,93,cave,Dragon
+153,2,4,123,180,volcanoes,Wyvern
+154,2,4,135,218,volcanoes,Wyvern
+155,4,0,240,53,woods,Serpent
+156,0,4,252,117,air,Flying Serpent
+157,2,4,128,186,volcanoes,Wyvern
+158,2,2,217,68,desert,Drake
+159,4,6,153,80,volcanoes,Dragon
+160,2,2,210,62,desert,Drake
+161,4,2,171,89,mountain,Dragon
+162,4,0,223,70,swamp,Serpent
+163,4,0,336,42,swamp,Wyrm
+164,2,2,201,57,desert,Drake
+165,4,2,190,51,volcanoes,Drake
+166,0,4,295,99,air,Flying Serpent
+167,4,4,125,67,volcanoes,Dragon
+168,2,4,143,211,volcanoes,Wyvern
+169,4,2,162,78,cave,Dragon
+170,4,0,321,38,cave,Wyrm
+171,4,4,167,85,volcanoes,Dragon
+172,4,2,191,72,water,Drake
+173,2,4,138,211,volcanoes,Wyvern
+174,4,0,238,51,air,Serpent
+175,2,2,208,62,volcanoes,Drake
+176,4,2,191,74,water,Drake
+177,4,0,221,52,swamp,Serpent
+178,2,2,194,67,water,Drake
+179,4,4,156,74,volcanoes,Dragon
+180,4,6,166,96,mountain,Dragon
+181,2,2,138,215,volcanoes,Wyvern
+182,0,4,274,112,air,Flying Serpent
+183,4,0,309,40,cave,Wyrm
+184,2,4,136,193,volcanoes,Wyvern
+185,2,2,149,209,volcanoes,Wyvern
+186,2,2,210,72,desert,Drake
+187,0,4,310,103,air,Flying Serpent
+188,4,6,148,87,cave,Dragon
+189,4,0,318,38,cave,Wyrm
+190,4,2,166,75,volcanoes,Dragon
+191,2,2,185,64,desert,Drake
+192,0,4,297,107,air,Flying Serpent
+193,2,2,216,69,water,Drake
+194,4,0,300,47,swamp,Wyrm
+195,4,2,194,67,water,Drake
+196,0,0,216,66,air,Serpent
+197,4,0,340,40,cave,Wyrm
+198,4,0,217,61,air,Serpent
+199,4,0,228,70,air,Serpent
+200,2,2,117,191,volcanoes,Wyvern
+201,4,0,328,44,swamp,Wyrm
+202,0,4,292,103,air,Flying Serpent
+203,4,6,146,66,volcanoes,Dragon
+204,4,2,158,90,mountain,Dragon
+205,0,4,291,116,air,Flying Serpent
+206,2,2,221,63,desert,Drake
+207,0,2,298,119,air,Flying Serpent
+208,0,2,313,123,air,Flying Serpent
+209,0,2,273,112,air,Flying Serpent
+210,2,2,203,65,desert,Drake
+211,4,6,126,71,volcanoes,Dragon
+212,4,0,311,47,swamp,Wyrm
+213,4,4,139,84,cave,Dragon
+214,4,0,302,40,swamp,Wyrm
+215,0,4,257,116,air,Flying Serpent
+216,2,2,218,57,desert,Drake
+217,0,2,300,103,air,Flying Serpent
+218,2,4,144,180,volcanoes,Wyvern
+219,4,0,216,59,swamp,Serpent
+220,0,0,248,57,air,Serpent
+221,0,2,261,124,air,Flying Serpent
+222,4,0,342,40,swamp,Wyrm
+223,0,2,294,108,air,Flying Serpent
+224,0,4,285,102,air,Flying Serpent
+225,0,4,310,102,air,Flying Serpent
+226,4,2,194,67,volcanoes,Drake
+227,4,0,218,68,air,Serpent
+228,0,0,218,55,swamp,Serpent
+229,4,0,330,41,cave,Wyrm
+230,0,4,307,120,air,Flying Serpent
+231,2,2,125,193,volcanoes,Wyvern
+232,2,4,125,211,volcanoes,Wyvern
+233,4,2,155,91,cave,Dragon
+234,0,2,283,115,air,Flying Serpent
+235,4,2,196,66,water,Drake
+236,4,0,228,53,swamp,Serpent
+237,0,2,309,115,air,Flying Serpent
+238,4,0,322,43,swamp,Wyrm
+239,4,6,158,84,mountain,Dragon
+240,4,0,325,49,swamp,Wyrm
+241,4,4,130,67,volcanoes,Dragon
+242,0,0,244,67,woods,Serpent
+243,2,2,146,220,volcanoes,Wyvern
+244,4,6,138,98,mountain,Dragon
+245,4,2,215,50,volcanoes,Drake
+246,4,0,248,75,swamp,Serpent
+247,4,2,203,73,water,Drake
+248,0,0,221,71,air,Serpent
+249,4,0,321,40,cave,Wyrm
+250,4,2,128,92,mountain,Dragon
+251,0,0,233,65,air,Serpent
+252,4,6,139,80,mountain,Dragon
+253,0,0,244,72,water,Serpent
+254,4,0,235,58,water,Serpent
+255,4,6,130,78,cave,Dragon
+256,4,0,305,41,cave,Wyrm
+257,0,2,260,123,air,Flying Serpent
+258,4,2,191,70,volcanoes,Drake
+259,4,0,311,48,swamp,Wyrm
+260,4,0,332,38,cave,Wyrm
+261,0,4,271,117,air,Flying Serpent
+262,4,4,133,88,cave,Dragon
+263,2,2,190,58,desert,Drake
+264,4,2,134,70,cave,Dragon
+265,0,4,258,112,air,Flying Serpent
+266,2,2,138,220,volcanoes,Wyvern
+267,0,4,302,103,air,Flying Serpent
+268,4,0,222,51,swamp,Serpent
+269,2,4,120,175,volcanoes,Wyvern
+270,2,2,217,66,volcanoes,Drake
+271,0,2,311,122,air,Flying Serpent
+272,4,6,174,70,volcanoes,Dragon
+273,4,0,312,42,cave,Wyrm
+274,4,0,323,40,swamp,Wyrm
+275,2,2,149,190,volcanoes,Wyvern
+276,4,2,204,55,water,Drake
+277,4,6,154,91,volcanoes,Dragon
+278,0,4,302,99,air,Flying Serpent
+279,4,0,320,40,swamp,Wyrm
+280,2,2,221,61,water,Drake
+281,4,0,221,70,air,Serpent
+282,2,4,142,177,volcanoes,Wyvern
+283,4,2,128,97,cave,Dragon
+284,4,2,215,62,water,Drake
+285,2,2,129,213,volcanoes,Wyvern
+286,4,2,186,54,volcanoes,Drake
+287,0,4,256,103,air,Flying Serpent
+288,4,0,233,59,air,Serpent
+289,4,2,205,59,desert,Drake
+290,4,0,319,46,cave,Wyrm
+291,2,4,137,177,volcanoes,Wyvern
+292,0,0,243,76,water,Serpent
+293,4,0,333,48,swamp,Wyrm
+294,4,0,245,74,swamp,Serpent
+295,4,0,315,46,swamp,Wyrm
+296,2,4,137,205,volcanoes,Wyvern
+297,4,6,126,73,cave,Dragon
+298,4,2,133,73,mountain,Dragon
+299,4,0,217,72,water,Serpent
+300,4,0,321,35,swamp,Wyrm
+301,2,4,115,177,volcanoes,Wyvern
+302,0,0,247,72,water,Serpent
+303,0,4,283,121,air,Flying Serpent
+304,4,0,227,66,swamp,Serpent
+305,0,0,229,75,swamp,Serpent
+306,0,0,240,75,woods,Serpent
+307,0,2,302,115,air,Flying Serpent
+308,2,2,210,68,volcanoes,Drake
+309,4,0,322,45,swamp,Wyrm
+310,2,2,188,61,volcanoes,Drake
+311,0,4,280,104,air,Flying Serpent
+312,2,2,197,63,volcanoes,Drake
+313,2,4,125,192,volcanoes,Wyvern
+314,4,2,149,69,mountain,Dragon
+315,4,0,337,38,cave,Wyrm
+316,4,0,299,38,cave,Wyrm
+317,0,0,222,74,air,Serpent
+318,4,0,237,50,water,Serpent
+319,2,4,131,187,volcanoes,Wyvern
+320,2,2,141,197,volcanoes,Wyvern
+321,0,0,232,52,woods,Serpent
+322,2,4,115,185,volcanoes,Wyvern
+323,2,4,121,185,volcanoes,Wyvern
+324,2,2,131,182,volcanoes,Wyvern
+325,4,0,319,43,cave,Wyrm
+326,0,0,238,74,air,Serpent
+327,4,0,302,49,swamp,Wyrm
+328,4,4,129,69,cave,Dragon
+329,0,4,314,112,air,Flying Serpent
+330,0,4,310,123,air,Flying Serpent
+331,4,0,319,44,cave,Wyrm
+332,0,0,221,53,swamp,Serpent
+333,0,2,309,109,air,Flying Serpent
+334,0,4,308,116,air,Flying Serpent
+335,2,2,207,66,desert,Drake
+336,0,4,266,116,air,Flying Serpent
+337,4,0,230,51,swamp,Serpent
+338,4,0,344,37,swamp,Wyrm
+339,4,4,156,84,cave,Dragon
+340,4,6,174,72,volcanoes,Dragon
+341,4,2,195,73,water,Drake
+342,4,0,323,35,swamp,Wyrm
+343,2,2,213,57,volcanoes,Drake
+344,2,4,122,175,volcanoes,Wyvern
+345,4,0,321,37,cave,Wyrm
+346,0,0,230,65,water,Serpent
+347,2,4,136,178,volcanoes,Wyvern
+348,4,0,313,46,swamp,Wyrm
+349,4,2,204,54,water,Drake
+350,2,2,126,214,volcanoes,Wyvern
+351,2,2,128,179,volcanoes,Wyvern
+352,4,2,193,53,desert,Drake
+353,4,2,191,54,volcanoes,Drake
+354,4,6,148,90,cave,Dragon
+355,0,0,247,64,woods,Serpent
+356,0,4,277,103,air,Flying Serpent
+357,2,2,185,59,desert,Drake
+358,2,4,121,212,volcanoes,Wyvern
+359,4,2,222,53,water,Drake
+360,2,4,136,215,volcanoes,Wyvern
+361,4,2,211,59,water,Drake
+362,0,4,291,107,air,Flying Serpent
+363,4,0,323,45,swamp,Wyrm
+364,4,0,316,42,cave,Wyrm
+365,4,0,224,65,water,Serpent
+366,4,0,343,36,cave,Wyrm
+367,2,4,142,204,volcanoes,Wyvern
+368,0,4,295,122,air,Flying Serpent
+369,2,4,135,188,volcanoes,Wyvern
+370,2,2,199,64,volcanoes,Drake
+371,0,4,262,116,air,Flying Serpent
+372,4,6,172,71,volcanoes,Dragon
+373,2,2,124,204,volcanoes,Wyvern
+374,4,2,132,77,cave,Dragon
+375,4,2,188,73,desert,Drake
+376,4,0,316,36,cave,Wyrm
+377,0,0,219,60,swamp,Serpent
+378,0,2,288,116,air,Flying Serpent
+379,4,0,237,60,air,Serpent
+380,0,4,252,116,air,Flying Serpent
+381,2,2,115,193,volcanoes,Wyvern
+382,0,0,219,51,air,Serpent
+383,4,0,321,36,cave,Wyrm
+384,2,2,210,54,volcanoes,Drake
+385,4,0,219,74,woods,Serpent
+386,4,0,314,44,cave,Wyrm
+387,4,0,246,79,air,Serpent
+388,0,2,261,106,air,Flying Serpent
+389,0,2,277,108,air,Flying Serpent
+390,4,2,193,74,water,Drake
+391,4,0,313,37,swamp,Wyrm
+392,4,6,162,89,mountain,Dragon
+393,0,0,235,74,woods,Serpent
+394,2,4,134,182,volcanoes,Wyvern
+395,2,2,125,220,volcanoes,Wyvern
+396,2,4,134,194,volcanoes,Wyvern
+397,2,2,137,203,volcanoes,Wyvern
+398,4,2,166,82,volcanoes,Dragon
+399,0,2,281,120,air,Flying Serpent
+400,0,0,226,60,air,Serpent
+401,2,2,192,70,desert,Drake
+402,0,0,242,72,swamp,Serpent
+403,4,0,242,61,water,Serpent
+404,4,6,127,89,mountain,Dragon
+405,4,0,216,60,woods,Serpent
+406,4,2,204,62,water,Drake
+407,2,2,148,196,volcanoes,Wyvern
+408,4,0,223,54,air,Serpent
+409,4,2,222,52,water,Drake
+410,4,0,237,56,water,Serpent
+411,2,4,115,209,volcanoes,Wyvern
+412,2,4,116,206,volcanoes,Wyvern
+413,2,2,211,60,desert,Drake
+414,4,0,312,42,cave,Wyrm
+415,0,0,221,53,swamp,Serpent
+416,2,2,141,196,volcanoes,Wyvern
+417,4,0,229,78,woods,Serpent
+418,4,0,306,40,cave,Wyrm
+419,4,0,324,39,cave,Wyrm
+420,2,2,188,61,water,Drake
+421,2,2,132,184,volcanoes,Wyvern
+422,0,2,310,112,air,Flying Serpent
+423,4,0,237,56,water,Serpent
+424,4,0,339,45,swamp,Wyrm
+425,0,0,234,73,water,Serpent
+426,0,4,273,99,air,Flying Serpent
+427,4,2,213,73,water,Drake
+428,2,2,203,50,water,Drake
+429,2,2,213,64,volcanoes,Drake
+430,4,0,318,39,swamp,Wyrm
+431,4,0,299,41,swamp,Wyrm
+432,4,0,318,45,swamp,Wyrm
+433,2,2,198,62,desert,Drake
+434,4,2,221,68,desert,Drake
+435,4,2,128,83,mountain,Dragon
+436,0,0,215,70,swamp,Serpent
+437,4,2,205,71,water,Drake
+438,0,2,259,121,air,Flying Serpent
+439,2,4,141,183,volcanoes,Wyvern
+440,4,0,323,46,cave,Wyrm
+441,0,4,289,101,air,Flying Serpent
+442,4,4,149,86,mountain,Dragon
+443,2,4,133,218,volcanoes,Wyvern
+444,0,0,224,54,swamp,Serpent
+445,4,0,219,79,swamp,Serpent
+446,4,0,310,49,swamp,Wyrm
+447,4,0,298,48,cave,Wyrm
+448,4,0,299,49,cave,Wyrm
+449,0,0,223,70,water,Serpent
+450,4,0,232,78,air,Serpent
+451,4,2,221,66,water,Drake
+452,0,4,287,120,air,Flying Serpent
+453,2,2,131,176,volcanoes,Wyvern
+454,4,4,172,71,mountain,Dragon
+455,4,0,327,45,cave,Wyrm
+456,0,2,275,115,air,Flying Serpent
+457,4,6,171,68,cave,Dragon
+458,0,4,254,100,air,Flying Serpent
+459,0,0,220,79,air,Serpent
+460,4,2,199,53,desert,Drake
+461,4,0,227,55,woods,Serpent
+462,0,2,256,117,air,Flying Serpent
+463,4,2,199,51,desert,Drake
+464,0,2,305,122,air,Flying Serpent
+465,0,4,256,106,air,Flying Serpent
+466,2,4,137,212,volcanoes,Wyvern
+467,4,6,138,90,cave,Dragon
+468,2,2,135,203,volcanoes,Wyvern
+469,0,0,244,57,air,Serpent
+470,0,2,289,124,air,Flying Serpent
+471,4,0,341,36,swamp,Wyrm
+472,4,2,172,99,volcanoes,Dragon
+473,0,2,271,118,air,Flying Serpent
+474,0,4,254,99,air,Flying Serpent
+475,4,4,163,79,cave,Dragon
+476,4,0,325,37,swamp,Wyrm
+477,4,0,239,79,water,Serpent
+478,4,6,147,98,mountain,Dragon
+479,0,2,307,111,air,Flying Serpent
+480,2,4,138,206,volcanoes,Wyvern
+481,2,2,122,196,volcanoes,Wyvern
+482,4,0,324,36,swamp,Wyrm
+483,2,4,127,180,volcanoes,Wyvern
+484,2,2,126,205,volcanoes,Wyvern
+485,0,2,286,114,air,Flying Serpent
+486,2,2,143,197,volcanoes,Wyvern
+487,4,0,325,41,swamp,Wyrm
+488,0,2,266,123,air,Flying Serpent
+489,2,4,128,184,volcanoes,Wyvern
+490,0,4,281,107,air,Flying Serpent
+491,4,0,310,37,cave,Wyrm
+492,2,4,131,183,volcanoes,Wyvern
+493,0,0,245,79,woods,Serpent
+494,4,0,246,69,air,Serpent
+495,0,4,258,101,air,Flying Serpent
+496,0,4,254,124,air,Flying Serpent
+497,4,6,158,88,volcanoes,Dragon
+498,4,0,344,44,cave,Wyrm
+499,0,4,302,108,air,Flying Serpent
+500,0,0,220,68,swamp,Serpent
+501,4,0,238,60,air,Serpent
+502,4,6,150,98,cave,Dragon
+503,2,4,145,182,volcanoes,Wyvern
+504,0,4,297,119,air,Flying Serpent
+505,4,0,222,74,water,Serpent
+506,4,2,209,59,water,Drake
+507,2,4,122,206,volcanoes,Wyvern
+508,4,4,141,94,cave,Dragon
+509,4,6,158,68,cave,Dragon
+510,4,4,171,81,cave,Dragon
+511,0,0,226,79,air,Serpent
+512,4,0,221,63,water,Serpent
+513,4,0,324,40,swamp,Wyrm
+514,2,2,198,64,desert,Drake
+515,4,0,304,35,cave,Wyrm
+516,0,2,266,99,air,Flying Serpent
+517,2,4,116,191,volcanoes,Wyvern
+518,2,2,193,53,volcanoes,Drake
+519,4,2,213,64,desert,Drake
+520,0,4,259,121,air,Flying Serpent
+521,4,6,141,70,volcanoes,Dragon
+522,4,0,318,45,cave,Wyrm
+523,4,2,172,84,volcanoes,Dragon
+524,4,0,240,73,air,Serpent
+525,4,0,338,49,cave,Wyrm
+526,4,4,141,68,volcanoes,Dragon
+527,4,2,193,71,water,Drake
+528,4,0,320,37,cave,Wyrm
+529,2,2,215,61,water,Drake
+530,4,0,299,48,swamp,Wyrm
+531,2,2,202,58,water,Drake
+532,2,4,124,216,volcanoes,Wyvern
+533,4,0,298,48,cave,Wyrm
+534,2,2,216,65,volcanoes,Drake
+535,0,4,283,117,air,Flying Serpent
+536,4,2,159,70,mountain,Dragon
+537,0,2,280,111,air,Flying Serpent
+538,2,2,145,215,volcanoes,Wyvern
+539,4,2,154,98,cave,Dragon
+540,4,0,311,43,cave,Wyrm
+541,4,2,204,53,water,Drake
+542,2,2,190,73,desert,Drake
+543,4,2,158,87,volcanoes,Dragon
+544,0,4,298,110,air,Flying Serpent
+545,4,2,208,68,water,Drake
+546,2,4,147,179,volcanoes,Wyvern
+547,4,2,220,69,water,Drake
+548,0,4,279,102,air,Flying Serpent
+549,4,0,307,49,swamp,Wyrm
+550,0,4,272,106,air,Flying Serpent
+551,0,2,281,108,air,Flying Serpent
+552,4,0,299,40,cave,Wyrm
+553,0,0,231,65,water,Serpent
+554,0,4,284,113,air,Flying Serpent
+555,4,0,316,41,cave,Wyrm
+556,4,2,193,60,water,Drake
+557,2,4,144,179,volcanoes,Wyvern
+558,0,4,282,118,air,Flying Serpent
+559,4,2,219,65,desert,Drake
+560,0,4,285,121,air,Flying Serpent
+561,2,2,214,58,desert,Drake
+562,2,2,143,222,volcanoes,Wyvern
+563,4,0,343,44,cave,Wyrm
+564,0,4,308,108,air,Flying Serpent
+565,0,2,304,120,air,Flying Serpent
+566,2,2,223,56,water,Drake
+567,0,2,273,113,air,Flying Serpent
+568,4,0,307,37,cave,Wyrm
+569,0,2,305,104,air,Flying Serpent
+570,4,2,195,53,volcanoes,Drake
+571,4,6,162,98,cave,Dragon
+572,4,0,324,46,cave,Wyrm
+573,0,0,216,59,water,Serpent
+574,2,2,137,218,volcanoes,Wyvern
+575,4,2,202,73,volcanoes,Drake
+576,2,4,122,221,volcanoes,Wyvern
+577,4,4,137,92,cave,Dragon
+578,4,2,188,50,water,Drake
+579,2,2,191,58,volcanoes,Drake
+580,4,0,218,75,woods,Serpent
+581,4,0,247,78,water,Serpent
+582,0,2,260,101,air,Flying Serpent
+583,4,0,298,40,swamp,Wyrm
+584,4,0,321,36,cave,Wyrm
+585,4,0,302,43,cave,Wyrm
+586,4,0,231,64,air,Serpent
+587,0,4,271,121,air,Flying Serpent
+588,0,0,229,78,swamp,Serpent
+589,4,4,152,87,volcanoes,Dragon
+590,4,0,238,71,swamp,Serpent
+591,4,2,136,85,cave,Dragon
+592,0,4,289,124,air,Flying Serpent
+593,4,2,218,53,volcanoes,Drake
+594,0,2,256,108,air,Flying Serpent
+595,0,2,272,123,air,Flying Serpent
+596,4,4,149,92,mountain,Dragon
+597,2,2,212,68,water,Drake
+598,0,4,271,124,air,Flying Serpent
+599,4,4,149,75,cave,Dragon
+600,4,0,242,74,woods,Serpent
+601,4,2,209,64,desert,Drake
+602,4,4,138,71,mountain,Dragon
+603,2,4,143,217,volcanoes,Wyvern
+604,4,0,322,40,swamp,Wyrm
+605,0,4,283,106,air,Flying Serpent
+606,4,0,310,48,swamp,Wyrm
+607,0,0,225,50,water,Serpent
+608,4,2,197,59,desert,Drake
+609,4,2,193,53,volcanoes,Drake
+610,0,2,283,109,air,Flying Serpent
+611,2,4,128,224,volcanoes,Wyvern
+612,4,6,142,82,mountain,Dragon
+613,0,0,232,63,swamp,Serpent
+614,4,2,185,56,volcanoes,Drake
+615,2,2,118,210,volcanoes,Wyvern
+616,2,2,122,218,volcanoes,Wyvern
+617,4,4,172,72,cave,Dragon
+618,2,2,135,177,volcanoes,Wyvern
+619,2,2,200,62,desert,Drake
+620,4,0,295,37,cave,Wyrm
+621,0,2,252,112,air,Flying Serpent
+622,0,2,303,117,air,Flying Serpent
+623,4,0,327,45,cave,Wyrm
+624,2,2,219,66,volcanoes,Drake
+625,2,2,194,59,water,Drake
+626,4,2,222,56,volcanoes,Drake
+627,4,0,328,43,cave,Wyrm
+628,2,4,126,205,volcanoes,Wyvern
+629,4,2,133,92,volcanoes,Dragon
+630,0,2,259,111,air,Flying Serpent
+631,4,0,340,39,cave,Wyrm
+632,4,4,150,73,mountain,Dragon
+633,4,2,211,57,water,Drake
+634,4,0,324,42,cave,Wyrm
+635,4,2,155,89,volcanoes,Dragon
+636,4,0,322,41,swamp,Wyrm
+637,4,6,136,88,mountain,Dragon
+638,2,4,119,185,volcanoes,Wyvern
+639,4,2,214,54,desert,Drake
+640,2,4,127,199,volcanoes,Wyvern
+641,4,0,247,68,water,Serpent
+642,0,2,262,107,air,Flying Serpent
+643,4,2,221,62,volcanoes,Drake
+644,0,2,255,103,air,Flying Serpent
+645,0,2,296,114,air,Flying Serpent
+646,2,2,123,223,volcanoes,Wyvern
+647,0,2,312,119,air,Flying Serpent
+648,2,2,218,67,volcanoes,Drake
+649,4,2,200,62,water,Drake
+650,4,0,224,62,air,Serpent
+651,4,2,135,90,cave,Dragon
+652,0,0,248,67,woods,Serpent
+653,0,2,275,118,air,Flying Serpent
+654,2,4,129,188,volcanoes,Wyvern
+655,0,2,312,102,air,Flying Serpent
+656,0,0,230,63,air,Serpent
+657,0,4,303,113,air,Flying Serpent
+658,4,0,334,35,cave,Wyrm
+659,4,0,235,78,swamp,Serpent
+660,4,2,199,56,desert,Drake
+661,2,4,131,200,volcanoes,Wyvern
+662,4,6,125,76,mountain,Dragon
+663,2,4,149,220,volcanoes,Wyvern
+664,2,2,212,52,water,Drake
+665,4,0,306,47,cave,Wyrm
+666,4,0,305,41,swamp,Wyrm
+667,2,2,224,69,water,Drake
+668,4,2,154,75,volcanoes,Dragon
+669,4,0,233,54,woods,Serpent
+670,4,2,217,67,water,Drake
+671,0,0,242,59,swamp,Serpent
+672,0,2,295,108,air,Flying Serpent
+673,4,4,157,80,cave,Dragon
+674,4,0,246,78,water,Serpent
+675,0,4,280,106,air,Flying Serpent
+676,4,6,144,86,volcanoes,Dragon
+677,2,4,140,188,volcanoes,Wyvern
+678,4,0,297,43,cave,Wyrm
+679,4,6,129,79,cave,Dragon
+680,4,2,159,72,cave,Dragon
+681,4,6,161,65,cave,Dragon
+682,4,2,125,84,volcanoes,Dragon
+683,2,4,143,178,volcanoes,Wyvern
+684,4,0,236,63,air,Serpent
+685,0,4,262,103,air,Flying Serpent
+686,2,2,206,73,volcanoes,Drake
+687,2,2,141,197,volcanoes,Wyvern
+688,4,0,309,48,cave,Wyrm
+689,2,2,206,60,water,Drake
+690,0,4,265,104,air,Flying Serpent
+691,4,6,149,74,cave,Dragon
+692,2,2,147,176,volcanoes,Wyvern
+693,4,0,239,58,water,Serpent
+694,0,4,305,115,air,Flying Serpent
+695,4,2,193,66,volcanoes,Drake
+696,2,2,115,217,volcanoes,Wyvern
+697,2,2,224,71,volcanoes,Drake
+698,4,0,235,51,woods,Serpent
+699,2,2,127,191,volcanoes,Wyvern
+700,4,4,172,66,mountain,Dragon
+701,4,0,238,54,swamp,Serpent
+702,4,0,298,46,swamp,Wyrm
+703,0,0,215,56,woods,Serpent
+704,4,2,213,63,desert,Drake
+705,4,0,319,45,cave,Wyrm
+706,4,0,311,43,cave,Wyrm
+707,4,0,215,69,air,Serpent
+708,0,2,308,112,air,Flying Serpent
+709,2,2,195,52,water,Drake
+710,4,4,174,86,volcanoes,Dragon
+711,4,2,170,70,volcanoes,Dragon
+712,2,2,220,59,water,Drake
+713,4,0,248,72,air,Serpent
+714,4,0,328,46,cave,Wyrm
+715,4,4,145,77,mountain,Dragon
+716,4,4,163,96,cave,Dragon
+717,4,0,309,38,cave,Wyrm
+718,4,0,238,79,water,Serpent
+719,2,2,205,65,desert,Drake
+720,4,0,245,53,woods,Serpent
+721,0,4,277,117,air,Flying Serpent
+722,4,0,343,47,swamp,Wyrm
+723,4,6,164,80,cave,Dragon
+724,4,2,193,52,desert,Drake
+725,4,4,148,88,cave,Dragon
+726,4,4,143,82,cave,Dragon
+727,4,0,330,39,cave,Wyrm
+728,2,2,141,217,volcanoes,Wyvern
+729,2,2,221,63,water,Drake
+730,4,2,158,94,cave,Dragon
+731,4,0,319,37,cave,Wyrm
+732,4,0,215,63,swamp,Serpent
+733,4,2,223,55,volcanoes,Drake
+734,4,2,186,51,water,Drake
+735,4,2,192,58,water,Drake
+736,2,2,146,219,volcanoes,Wyvern
+737,0,0,232,56,air,Serpent
+738,4,0,317,39,cave,Wyrm
+739,0,0,240,74,woods,Serpent
+740,2,2,194,51,desert,Drake
+741,2,2,127,191,volcanoes,Wyvern
+742,4,0,245,64,air,Serpent
+743,4,6,169,99,mountain,Dragon
+744,4,2,147,66,volcanoes,Dragon
+745,4,0,298,41,swamp,Wyrm
+746,0,4,263,115,air,Flying Serpent
+747,2,4,140,203,volcanoes,Wyvern
+748,4,0,343,42,cave,Wyrm
+749,4,0,234,63,air,Serpent
+750,4,0,225,64,air,Serpent
+751,4,2,197,59,desert,Drake
+752,2,2,133,180,volcanoes,Wyvern
+753,0,0,226,70,air,Serpent
+754,4,2,217,74,desert,Drake
+755,4,0,308,37,swamp,Wyrm
+756,0,4,279,110,air,Flying Serpent
+757,4,6,146,72,cave,Dragon
+758,4,0,328,39,cave,Wyrm
+759,4,0,244,55,air,Serpent
+760,0,0,235,58,water,Serpent
+761,4,0,327,38,swamp,Wyrm
+762,0,0,226,55,air,Serpent
+763,4,4,168,66,cave,Dragon
+764,2,2,148,195,volcanoes,Wyvern
+765,4,0,304,45,swamp,Wyrm
+766,4,0,249,57,woods,Serpent
+767,0,0,229,77,woods,Serpent
+768,2,4,146,182,volcanoes,Wyvern
+769,0,4,251,106,air,Flying Serpent
+770,0,0,249,50,water,Serpent
+771,4,2,214,63,water,Drake
+772,4,2,142,86,mountain,Dragon
+773,4,6,153,75,mountain,Dragon
+774,0,0,217,78,woods,Serpent
+775,4,2,211,61,desert,Drake
+776,2,4,146,205,volcanoes,Wyvern
+777,0,0,240,65,water,Serpent
+778,4,0,221,50,air,Serpent
+779,4,0,333,44,cave,Wyrm
+780,4,6,126,98,mountain,Dragon
+781,0,4,300,108,air,Flying Serpent
+782,4,0,306,38,swamp,Wyrm
+783,4,0,332,39,swamp,Wyrm
+784,4,0,325,45,swamp,Wyrm
+785,4,0,303,49,swamp,Wyrm
+786,4,2,145,86,cave,Dragon
+787,4,0,230,75,swamp,Serpent
+788,4,0,319,46,cave,Wyrm
+789,4,0,329,47,cave,Wyrm
+790,4,0,297,41,swamp,Wyrm
+791,4,4,172,98,mountain,Dragon
+792,4,0,315,44,cave,Wyrm
+793,2,4,134,176,volcanoes,Wyvern
+794,0,2,260,120,air,Flying Serpent
+795,0,4,251,116,air,Flying Serpent
+796,0,2,256,99,air,Flying Serpent
+797,0,0,232,54,water,Serpent
+798,4,2,212,51,volcanoes,Drake
+799,2,2,127,207,volcanoes,Wyvern
+800,4,0,243,50,air,Serpent
+801,2,2,120,215,volcanoes,Wyvern
+802,2,4,123,210,volcanoes,Wyvern
+803,2,4,126,203,volcanoes,Wyvern
+804,0,2,260,116,air,Flying Serpent
+805,0,2,256,109,air,Flying Serpent
+806,4,0,340,35,cave,Wyrm
+807,4,2,208,58,water,Drake
+808,4,4,156,82,mountain,Dragon
+809,4,0,314,42,cave,Wyrm
+810,2,2,207,65,desert,Drake
+811,4,0,215,74,swamp,Serpent
+812,4,0,298,36,cave,Wyrm
+813,4,0,248,73,air,Serpent
+814,2,2,120,220,volcanoes,Wyvern
+815,2,2,146,204,volcanoes,Wyvern
+816,0,0,243,75,woods,Serpent
+817,4,2,218,66,volcanoes,Drake
+818,4,2,219,63,water,Drake
+819,4,4,150,88,volcanoes,Dragon
+820,4,0,242,78,swamp,Serpent
+821,0,0,216,53,air,Serpent
+822,2,4,117,187,volcanoes,Wyvern
+823,4,0,302,35,cave,Wyrm
+824,0,0,244,65,water,Serpent
+825,0,4,255,111,air,Flying Serpent
+826,2,4,131,182,volcanoes,Wyvern
+827,2,2,134,219,volcanoes,Wyvern
+828,4,0,299,43,swamp,Wyrm
+829,2,4,126,195,volcanoes,Wyvern
+830,4,0,224,51,swamp,Serpent
+831,4,0,333,38,swamp,Wyrm
+832,4,0,317,40,cave,Wyrm
+833,2,4,146,216,volcanoes,Wyvern
+834,0,2,314,121,air,Flying Serpent
+835,4,2,164,78,mountain,Dragon
+836,2,2,140,206,volcanoes,Wyvern
+837,4,2,155,94,volcanoes,Dragon
+838,0,4,253,124,air,Flying Serpent
+839,4,0,342,39,swamp,Wyrm
+840,4,0,225,67,woods,Serpent
+841,4,0,217,55,swamp,Serpent
+842,4,4,153,90,cave,Dragon
+843,4,0,295,45,cave,Wyrm
+844,4,0,338,43,cave,Wyrm
+845,4,2,222,55,desert,Drake
+846,2,2,129,218,volcanoes,Wyvern
+847,4,0,221,74,woods,Serpent
+848,2,2,123,220,volcanoes,Wyvern
+849,0,4,312,120,air,Flying Serpent
+850,4,0,247,67,swamp,Serpent
+851,4,0,241,76,woods,Serpent
+852,4,0,297,45,swamp,Wyrm
+853,4,2,212,74,water,Drake
+854,4,2,139,82,volcanoes,Dragon
+855,4,2,158,70,volcanoes,Dragon
+856,4,0,248,73,water,Serpent
+857,2,2,224,55,water,Drake
+858,4,0,228,77,water,Serpent
+859,4,0,228,61,swamp,Serpent
+860,2,4,119,196,volcanoes,Wyvern
+861,2,2,142,222,volcanoes,Wyvern
+862,2,2,148,187,volcanoes,Wyvern
+863,0,2,282,116,air,Flying Serpent
+864,2,2,197,51,water,Drake
+865,0,0,246,75,air,Serpent
+866,2,2,193,74,water,Drake
+867,4,2,213,68,water,Drake
+868,0,4,250,116,air,Flying Serpent
+869,4,6,143,70,volcanoes,Dragon
+870,2,2,207,51,water,Drake
+871,2,2,142,203,volcanoes,Wyvern
+872,0,0,217,69,woods,Serpent
+873,0,0,217,65,air,Serpent
+874,4,2,152,69,mountain,Dragon
+875,4,2,168,84,cave,Dragon
+876,2,2,222,59,water,Drake
+877,0,4,302,113,air,Flying Serpent
+878,0,4,270,99,air,Flying Serpent
+879,2,4,128,181,volcanoes,Wyvern
+880,0,0,233,51,swamp,Serpent
+881,4,2,167,66,cave,Dragon
+882,0,0,215,76,woods,Serpent
+883,2,4,122,183,volcanoes,Wyvern
+884,4,0,344,42,swamp,Wyrm
+885,4,0,306,43,swamp,Wyrm
+886,0,2,286,121,air,Flying Serpent
+887,4,4,146,69,volcanoes,Dragon
+888,2,2,115,192,volcanoes,Wyvern
+889,0,0,226,57,woods,Serpent
+890,2,2,145,191,volcanoes,Wyvern
+891,4,2,213,50,water,Drake
+892,4,2,129,83,cave,Dragon
+893,4,4,138,95,mountain,Dragon
+894,2,2,223,66,volcanoes,Drake
+895,2,2,216,55,water,Drake
+896,4,2,205,61,water,Drake
+897,2,2,208,55,desert,Drake
+898,4,0,327,46,swamp,Wyrm
+899,0,0,248,53,air,Serpent
+900,0,0,234,73,air,Serpent
+901,4,0,307,46,swamp,Wyrm
+902,0,2,261,120,air,Flying Serpent
+903,4,2,172,76,cave,Dragon
+904,4,0,300,49,swamp,Wyrm
+905,2,2,145,212,volcanoes,Wyvern
+906,0,4,272,117,air,Flying Serpent
+907,4,2,210,64,volcanoes,Drake
+908,2,4,120,175,volcanoes,Wyvern
+909,4,6,125,65,cave,Dragon
+910,0,2,279,100,air,Flying Serpent
+911,4,0,343,35,cave,Wyrm
+912,4,6,141,68,mountain,Dragon
+913,4,6,148,99,volcanoes,Dragon
+914,0,0,237,72,swamp,Serpent
+915,4,0,332,37,cave,Wyrm
+916,0,4,274,99,air,Flying Serpent
+917,0,4,308,103,air,Flying Serpent
+918,4,0,339,42,swamp,Wyrm
+919,4,0,325,43,cave,Wyrm
+920,2,2,134,191,volcanoes,Wyvern
+921,2,4,132,209,volcanoes,Wyvern
+922,4,0,299,42,swamp,Wyrm
+923,4,2,208,52,water,Drake
+924,4,0,242,60,woods,Serpent
+925,4,2,129,73,mountain,Dragon
+926,4,0,219,79,swamp,Serpent
+927,2,2,187,62,desert,Drake
+928,2,2,131,223,volcanoes,Wyvern
+929,2,2,128,218,volcanoes,Wyvern
+930,4,4,171,93,cave,Dragon
+931,4,0,313,42,cave,Wyrm
+932,0,4,285,113,air,Flying Serpent
+933,4,0,343,38,swamp,Wyrm
+934,4,0,239,79,air,Serpent
+935,4,2,207,69,water,Drake
+936,0,2,270,99,air,Flying Serpent
+937,4,0,306,35,cave,Wyrm
+938,4,0,328,45,swamp,Wyrm
+939,4,0,321,35,swamp,Wyrm
+940,2,2,115,205,volcanoes,Wyvern
+941,4,6,168,70,mountain,Dragon
+942,0,4,302,124,air,Flying Serpent
+943,0,0,230,66,woods,Serpent
+944,4,0,303,35,cave,Wyrm
+945,4,0,244,56,air,Serpent
+946,0,2,303,123,air,Flying Serpent
+947,4,6,133,90,volcanoes,Dragon
+948,2,2,133,206,volcanoes,Wyvern
+949,2,4,121,183,volcanoes,Wyvern
+950,2,2,204,53,desert,Drake
+951,0,0,249,50,woods,Serpent
+952,4,2,219,65,desert,Drake
+953,2,2,205,61,volcanoes,Drake
+954,4,0,321,49,swamp,Wyrm
+955,4,0,341,49,cave,Wyrm
+956,2,4,149,211,volcanoes,Wyvern
+957,0,0,236,64,woods,Serpent
+958,0,2,292,122,air,Flying Serpent
+959,2,2,216,73,volcanoes,Drake
+960,0,4,298,110,air,Flying Serpent
+961,4,2,134,70,mountain,Dragon
+962,2,4,130,178,volcanoes,Wyvern
+963,2,4,141,208,volcanoes,Wyvern
+964,4,0,335,46,swamp,Wyrm
+965,2,2,223,71,water,Drake
+966,2,2,134,190,volcanoes,Wyvern
+967,0,2,274,123,air,Flying Serpent
+968,4,0,343,40,cave,Wyrm
+969,0,4,311,102,air,Flying Serpent
+970,4,0,314,44,swamp,Wyrm
+971,0,2,305,117,air,Flying Serpent
+972,0,0,224,64,water,Serpent
+973,0,2,301,104,air,Flying Serpent
+974,0,0,225,59,woods,Serpent
+975,2,4,116,218,volcanoes,Wyvern
+976,0,0,248,76,air,Serpent
+977,0,0,240,73,air,Serpent
+978,4,6,155,83,cave,Dragon
+979,2,4,136,179,volcanoes,Wyvern
+980,0,0,225,75,air,Serpent
+981,0,0,240,50,water,Serpent
+982,4,2,185,57,volcanoes,Drake
+983,2,2,125,192,volcanoes,Wyvern
+984,4,6,163,98,mountain,Dragon
+985,4,2,152,93,mountain,Dragon
+986,0,0,221,55,water,Serpent
+987,0,2,251,117,air,Flying Serpent
+988,2,2,145,208,volcanoes,Wyvern
+989,4,0,323,49,swamp,Wyrm
+990,4,6,125,77,cave,Dragon
+991,4,0,300,43,swamp,Wyrm
+992,2,4,118,180,volcanoes,Wyvern
+993,0,4,311,124,air,Flying Serpent
+994,4,0,305,42,cave,Wyrm
+995,4,4,160,84,volcanoes,Dragon
+996,4,0,342,44,cave,Wyrm
+997,4,0,312,48,swamp,Wyrm
+998,0,4,257,116,air,Flying Serpent
+999,4,4,155,98,volcanoes,Dragon
+1000,4,2,136,87,cave,Dragon
+1001,2,2,128,178,volcanoes,Wyvern
+1002,0,2,306,112,air,Flying Serpent
+1003,2,4,136,185,volcanoes,Wyvern
+1004,4,6,154,85,volcanoes,Dragon
+1005,2,4,120,202,volcanoes,Wyvern
+1006,0,4,272,124,air,Flying Serpent
+1007,4,0,330,49,swamp,Wyrm
+1008,4,4,159,98,volcanoes,Dragon
+1009,0,0,216,70,water,Serpent
+1010,4,2,210,60,volcanoes,Drake
+1011,4,0,216,66,air,Serpent
+1012,4,0,230,72,swamp,Serpent
+1013,0,2,307,123,air,Flying Serpent
+1014,0,2,302,114,air,Flying Serpent
+1015,2,2,189,67,water,Drake
+1016,2,4,140,194,volcanoes,Wyvern
+1017,0,0,215,57,air,Serpent
+1018,0,4,306,113,air,Flying Serpent
+1019,0,2,282,114,air,Flying Serpent
+1020,2,2,204,64,desert,Drake
+1021,4,2,134,97,mountain,Dragon
+1022,4,2,139,79,mountain,Dragon
+1023,4,0,326,48,swamp,Wyrm
+1024,2,2,133,206,volcanoes,Wyvern
+1025,4,0,295,36,cave,Wyrm
+1026,4,0,331,39,cave,Wyrm
+1027,4,0,311,38,swamp,Wyrm
+1028,0,2,288,122,air,Flying Serpent
+1029,0,4,288,122,air,Flying Serpent
+1030,2,2,127,208,volcanoes,Wyvern
+1031,4,0,338,43,cave,Wyrm
+1032,4,0,343,42,cave,Wyrm
+1033,0,0,228,79,woods,Serpent
+1034,2,2,218,54,water,Drake
+1035,2,4,149,181,volcanoes,Wyvern
+1036,2,2,121,216,volcanoes,Wyvern
+1037,4,6,138,86,mountain,Dragon
+1038,4,0,316,43,swamp,Wyrm
+1039,0,2,299,102,air,Flying Serpent
+1040,4,0,311,46,cave,Wyrm
+1041,4,4,151,88,cave,Dragon
+1042,2,2,149,221,volcanoes,Wyvern
+1043,2,2,125,196,volcanoes,Wyvern
+1044,4,0,328,36,cave,Wyrm
+1045,0,0,221,71,air,Serpent
+1046,4,2,126,78,cave,Dragon
+1047,4,0,307,47,swamp,Wyrm
+1048,0,0,237,56,air,Serpent
+1049,0,0,247,62,water,Serpent
+1050,4,0,328,49,cave,Wyrm
+1051,0,2,285,123,air,Flying Serpent
+1052,0,4,283,101,air,Flying Serpent
+1053,4,2,168,71,cave,Dragon
+1054,4,0,308,36,swamp,Wyrm
+1055,4,2,193,72,water,Drake
+1056,0,2,260,123,air,Flying Serpent
+1057,0,0,246,61,swamp,Serpent
+1058,2,4,142,194,volcanoes,Wyvern
+1059,2,2,223,53,desert,Drake
+1060,2,4,141,195,volcanoes,Wyvern
+1061,2,2,134,212,volcanoes,Wyvern
+1062,4,0,331,46,swamp,Wyrm
+1063,2,4,125,186,volcanoes,Wyvern
+1064,0,0,238,56,woods,Serpent
+1065,4,0,243,68,air,Serpent
+1066,2,2,221,61,water,Drake
+1067,4,0,247,65,swamp,Serpent
+1068,4,2,220,51,water,Drake
+1069,4,0,303,38,cave,Wyrm
+1070,2,4,144,208,volcanoes,Wyvern
+1071,4,0,309,44,swamp,Wyrm
+1072,0,2,280,111,air,Flying Serpent
+1073,0,4,308,108,air,Flying Serpent
+1074,4,6,139,67,volcanoes,Dragon
+1075,4,4,160,81,volcanoes,Dragon
+1076,4,4,143,65,cave,Dragon
+1077,2,2,224,62,volcanoes,Drake
+1078,2,2,201,57,volcanoes,Drake
+1079,0,0,226,78,water,Serpent
+1080,4,2,140,96,cave,Dragon
+1081,4,0,339,40,swamp,Wyrm
+1082,0,0,218,67,woods,Serpent
+1083,0,4,271,108,air,Flying Serpent
+1084,4,0,302,44,swamp,Wyrm
+1085,0,4,299,108,air,Flying Serpent
+1086,4,0,323,47,cave,Wyrm
+1087,2,2,199,71,water,Drake
+1088,0,2,303,110,air,Flying Serpent
+1089,0,2,271,117,air,Flying Serpent
+1090,0,2,279,115,air,Flying Serpent
+1091,2,2,117,216,volcanoes,Wyvern
+1092,4,2,162,72,mountain,Dragon
+1093,4,0,221,72,woods,Serpent
+1094,0,2,267,107,air,Flying Serpent
+1095,4,2,208,74,desert,Drake
+1096,2,2,203,53,water,Drake
+1097,4,0,323,46,swamp,Wyrm
+1098,0,0,244,77,woods,Serpent
+1099,4,0,315,48,cave,Wyrm
+1100,0,4,267,120,air,Flying Serpent
+1101,4,2,215,52,water,Drake
+1102,4,4,130,84,cave,Dragon
+1103,2,2,141,179,volcanoes,Wyvern
+1104,4,0,301,43,swamp,Wyrm
+1105,4,2,200,63,desert,Drake
+1106,4,0,306,38,cave,Wyrm
+1107,2,2,212,65,water,Drake
+1108,0,2,286,116,air,Flying Serpent
+1109,2,2,138,188,volcanoes,Wyvern
+1110,0,0,231,62,water,Serpent
+1111,4,0,304,45,swamp,Wyrm
+1112,4,0,226,69,air,Serpent
+1113,2,4,121,181,volcanoes,Wyvern
+1114,4,4,132,95,mountain,Dragon
+1115,4,4,164,82,mountain,Dragon
+1116,0,0,238,78,water,Serpent
+1117,4,0,298,35,cave,Wyrm
+1118,0,2,258,121,air,Flying Serpent
+1119,2,2,199,71,desert,Drake
+1120,4,0,326,47,swamp,Wyrm
+1121,0,2,284,112,air,Flying Serpent
+1122,4,2,207,59,water,Drake
+1123,0,4,302,105,air,Flying Serpent
+1124,2,2,149,179,volcanoes,Wyvern
+1125,0,0,225,60,woods,Serpent
+1126,2,2,197,60,desert,Drake
+1127,0,2,311,116,air,Flying Serpent
+1128,4,6,136,66,cave,Dragon
+1129,0,4,261,109,air,Flying Serpent
+1130,4,0,331,45,swamp,Wyrm
+1131,4,6,139,68,volcanoes,Dragon
+1132,2,2,145,190,volcanoes,Wyvern
+1133,4,0,240,59,water,Serpent
+1134,0,0,225,61,water,Serpent
+1135,4,4,135,67,cave,Dragon
+1136,4,0,312,46,swamp,Wyrm
+1137,4,0,313,42,swamp,Wyrm
+1138,4,4,173,88,volcanoes,Dragon
+1139,0,2,271,115,air,Flying Serpent
+1140,4,0,321,48,cave,Wyrm
+1141,4,2,125,96,mountain,Dragon
+1142,0,4,250,113,air,Flying Serpent
+1143,4,6,145,74,mountain,Dragon
+1144,4,0,337,44,cave,Wyrm
+1145,4,0,311,39,swamp,Wyrm
+1146,2,4,144,213,volcanoes,Wyvern
+1147,0,2,286,115,air,Flying Serpent
+1148,2,2,138,199,volcanoes,Wyvern
+1149,4,2,218,62,volcanoes,Drake
+1150,4,4,144,89,mountain,Dragon
+1151,4,2,224,54,desert,Drake
+1152,0,0,245,54,water,Serpent
+1153,4,4,126,68,cave,Dragon
+1154,4,0,222,71,swamp,Serpent
+1155,2,2,149,221,volcanoes,Wyvern
+1156,0,4,297,99,air,Flying Serpent
+1157,4,6,150,80,volcanoes,Dragon
+1158,0,2,274,105,air,Flying Serpent
+1159,4,0,315,40,cave,Wyrm
+1160,2,2,142,183,volcanoes,Wyvern
+1161,2,2,191,54,volcanoes,Drake
+1162,0,4,281,114,air,Flying Serpent
+1163,4,4,127,82,volcanoes,Dragon
+1164,0,4,314,112,air,Flying Serpent
+1165,4,6,147,99,cave,Dragon
+1166,0,2,289,111,air,Flying Serpent
+1167,4,0,343,41,cave,Wyrm
+1168,2,2,135,176,volcanoes,Wyvern
+1169,0,0,222,79,woods,Serpent
+1170,0,4,259,113,air,Flying Serpent
+1171,2,4,132,223,volcanoes,Wyvern
+1172,4,6,166,75,mountain,Dragon
+1173,4,0,299,45,cave,Wyrm
+1174,0,4,262,118,air,Flying Serpent
+1175,4,2,159,65,mountain,Dragon
+1176,4,0,329,48,swamp,Wyrm
+1177,4,0,243,72,water,Serpent
+1178,4,6,170,84,mountain,Dragon
+1179,4,2,160,83,volcanoes,Dragon
+1180,4,0,337,43,swamp,Wyrm
+1181,2,2,137,215,volcanoes,Wyvern
+1182,4,0,297,46,cave,Wyrm
+1183,2,4,140,207,volcanoes,Wyvern
+1184,4,4,168,78,mountain,Dragon
+1185,2,2,122,199,volcanoes,Wyvern
+1186,4,0,223,76,water,Serpent
+1187,2,4,149,212,volcanoes,Wyvern
+1188,4,0,297,46,cave,Wyrm
+1189,4,4,153,78,volcanoes,Dragon
+1190,4,0,327,47,cave,Wyrm
+1191,4,2,154,66,mountain,Dragon
+1192,2,4,115,175,volcanoes,Wyvern
+1193,4,0,317,42,swamp,Wyrm
+1194,4,6,172,82,mountain,Dragon
+1195,0,2,284,99,air,Flying Serpent
+1196,0,2,299,108,air,Flying Serpent
+1197,0,2,266,117,air,Flying Serpent
+1198,4,0,333,45,cave,Wyrm
+1199,4,2,211,70,volcanoes,Drake
+1200,4,4,171,73,mountain,Dragon
+1201,4,0,295,47,swamp,Wyrm
+1202,4,6,132,70,cave,Dragon
+1203,4,2,149,82,volcanoes,Dragon
+1204,0,2,254,119,air,Flying Serpent
+1205,4,2,216,70,water,Drake
+1206,0,0,228,61,air,Serpent
+1207,4,2,201,63,desert,Drake
+1208,0,0,243,77,air,Serpent
+1209,4,0,337,40,swamp,Wyrm
+1210,2,2,207,58,water,Drake
+1211,0,4,286,104,air,Flying Serpent
+1212,2,2,205,65,desert,Drake
+1213,2,4,145,200,volcanoes,Wyvern
+1214,0,0,231,79,air,Serpent
+1215,4,0,335,40,cave,Wyrm
+1216,0,2,269,121,air,Flying Serpent
+1217,4,0,304,39,swamp,Wyrm
+1218,4,0,319,48,swamp,Wyrm
+1219,2,2,202,58,desert,Drake
+1220,0,0,217,61,woods,Serpent
+1221,4,0,220,68,air,Serpent
+1222,4,0,245,60,water,Serpent
+1223,0,4,295,118,air,Flying Serpent
+1224,2,2,145,178,volcanoes,Wyvern
+1225,4,2,164,76,volcanoes,Dragon
+1226,4,0,331,40,cave,Wyrm
+1227,2,2,124,190,volcanoes,Wyvern
+1228,4,2,206,58,volcanoes,Drake
+1229,0,4,302,99,air,Flying Serpent
+1230,4,0,324,49,cave,Wyrm
+1231,2,4,118,211,volcanoes,Wyvern
+1232,4,0,326,42,swamp,Wyrm
+1233,2,4,120,201,volcanoes,Wyvern
+1234,4,0,231,63,swamp,Serpent
+1235,0,0,231,62,swamp,Serpent
+1236,0,0,223,67,woods,Serpent
+1237,2,2,224,55,water,Drake
+1238,4,2,191,56,volcanoes,Drake
+1239,4,2,142,96,cave,Dragon
+1240,2,4,124,195,volcanoes,Wyvern
+1241,2,2,130,211,volcanoes,Wyvern
+1242,0,2,310,105,air,Flying Serpent
+1243,2,2,118,200,volcanoes,Wyvern
+1244,4,4,170,78,volcanoes,Dragon
+1245,2,4,129,190,volcanoes,Wyvern
+1246,4,0,246,52,air,Serpent
+1247,4,0,219,73,water,Serpent
+1248,2,4,139,222,volcanoes,Wyvern
+1249,2,4,121,220,volcanoes,Wyvern
+1250,4,2,210,63,volcanoes,Drake
+1251,4,0,240,77,woods,Serpent
+1252,4,2,125,76,mountain,Dragon
+1253,0,4,260,104,air,Flying Serpent
+1254,0,2,269,118,air,Flying Serpent
+1255,0,4,252,100,air,Flying Serpent
+1256,4,0,296,47,cave,Wyrm
+1257,4,2,195,67,water,Drake
+1258,2,2,120,186,volcanoes,Wyvern
+1259,0,2,304,122,air,Flying Serpent
+1260,4,0,295,44,swamp,Wyrm
+1261,0,2,308,118,air,Flying Serpent
+1262,4,0,323,47,cave,Wyrm
+1263,0,2,272,101,air,Flying Serpent
+1264,4,0,247,56,swamp,Serpent
+1265,2,2,212,73,volcanoes,Drake
+1266,4,0,340,43,cave,Wyrm
+1267,4,0,313,46,cave,Wyrm
+1268,4,0,229,63,swamp,Serpent
+1269,4,4,158,90,mountain,Dragon
+1270,4,0,315,38,cave,Wyrm
+1271,2,4,137,198,volcanoes,Wyvern
+1272,4,0,309,41,swamp,Wyrm
+1273,0,0,220,68,swamp,Serpent
+1274,4,2,148,92,volcanoes,Dragon
+1275,4,2,190,50,desert,Drake
+1276,0,0,249,54,air,Serpent
+1277,2,2,139,191,volcanoes,Wyvern
+1278,4,0,323,36,swamp,Wyrm
+1279,0,4,266,100,air,Flying Serpent
+1280,0,4,300,120,air,Flying Serpent
+1281,2,2,214,63,desert,Drake
+1282,2,2,222,60,volcanoes,Drake
+1283,2,4,120,212,volcanoes,Wyvern
+1284,4,0,299,46,cave,Wyrm
+1285,2,2,185,67,water,Drake
+1286,2,2,126,182,volcanoes,Wyvern
+1287,4,6,173,84,volcanoes,Dragon
+1288,4,4,133,80,cave,Dragon
+1289,4,0,326,42,swamp,Wyrm
+1290,0,0,222,53,water,Serpent
+1291,2,2,208,63,desert,Drake
+1292,4,0,333,37,swamp,Wyrm
+1293,4,6,160,87,mountain,Dragon
+1294,0,2,254,119,air,Flying Serpent
+1295,2,2,198,55,desert,Drake
+1296,2,2,216,50,water,Drake
+1297,4,0,295,38,cave,Wyrm
+1298,2,2,124,208,volcanoes,Wyvern
+1299,2,2,215,52,volcanoes,Drake
+1300,4,0,316,37,swamp,Wyrm
+1301,4,2,167,80,mountain,Dragon
+1302,0,2,268,102,air,Flying Serpent
+1303,4,2,170,84,cave,Dragon
+1304,2,4,137,188,volcanoes,Wyvern
+1305,4,2,157,69,volcanoes,Dragon
+1306,0,0,230,67,water,Serpent
+1307,4,0,309,41,swamp,Wyrm
+1308,2,2,143,213,volcanoes,Wyvern
+1309,4,6,165,93,volcanoes,Dragon
+1310,4,4,174,91,mountain,Dragon
+1311,4,2,199,61,water,Drake
+1312,2,4,115,182,volcanoes,Wyvern
+1313,4,6,127,81,volcanoes,Dragon
+1314,4,0,340,38,cave,Wyrm
+1315,0,2,269,110,air,Flying Serpent
+1316,4,2,186,59,desert,Drake
+1317,2,2,220,52,water,Drake
+1318,2,2,200,64,water,Drake
+1319,4,2,133,91,cave,Dragon
+1320,4,0,245,76,swamp,Serpent
+1321,2,2,129,202,volcanoes,Wyvern
+1322,4,0,229,76,swamp,Serpent
+1323,2,2,139,218,volcanoes,Wyvern
+1324,4,2,209,67,desert,Drake
+1325,2,2,196,71,water,Drake
+1326,2,2,134,190,volcanoes,Wyvern
+1327,4,2,144,86,volcanoes,Dragon
+1328,0,0,238,68,woods,Serpent
+1329,2,2,147,197,volcanoes,Wyvern
+1330,4,0,341,39,swamp,Wyrm
+1331,4,2,215,70,volcanoes,Drake
+1332,4,0,216,56,water,Serpent
+1333,4,2,143,92,cave,Dragon
+1334,0,4,302,102,air,Flying Serpent
+1335,2,2,185,63,water,Drake
+1336,0,0,235,77,air,Serpent
+1337,4,4,142,98,mountain,Dragon
+1338,2,2,121,209,volcanoes,Wyvern
+1339,2,2,137,193,volcanoes,Wyvern
+1340,2,2,205,59,desert,Drake
+1341,4,0,325,45,cave,Wyrm
+1342,4,2,206,54,desert,Drake
+1343,4,6,125,70,mountain,Dragon
+1344,4,2,197,62,volcanoes,Drake
+1345,2,4,131,222,volcanoes,Wyvern
+1346,2,2,137,205,volcanoes,Wyvern
+1347,2,4,117,218,volcanoes,Wyvern
+1348,2,2,213,64,water,Drake
+1349,4,0,218,55,water,Serpent
+1350,4,2,215,63,desert,Drake
+1351,4,0,243,67,water,Serpent
+1352,4,2,127,75,cave,Dragon
+1353,0,0,223,52,water,Serpent
+1354,4,2,168,74,mountain,Dragon
+1355,4,6,160,88,cave,Dragon
+1356,2,2,133,209,volcanoes,Wyvern
+1357,2,2,202,73,desert,Drake
+1358,2,4,127,197,volcanoes,Wyvern
+1359,4,0,320,47,cave,Wyrm
+1360,0,2,299,122,air,Flying Serpent
+1361,2,2,199,74,desert,Drake
+1362,4,0,247,62,water,Serpent
+1363,4,0,230,55,air,Serpent
+1364,4,0,317,45,cave,Wyrm
+1365,4,0,333,49,swamp,Wyrm
+1366,0,4,296,114,air,Flying Serpent
+1367,0,2,268,108,air,Flying Serpent
+1368,0,2,274,104,air,Flying Serpent
+1369,4,2,157,75,cave,Dragon
+1370,2,2,220,65,volcanoes,Drake
+1371,4,2,214,64,volcanoes,Drake
+1372,4,2,165,84,volcanoes,Dragon
+1373,4,2,222,56,water,Drake
+1374,0,0,230,62,air,Serpent
+1375,2,4,148,207,volcanoes,Wyvern
+1376,4,0,236,63,water,Serpent
+1377,4,0,341,44,swamp,Wyrm
+1378,4,0,344,44,swamp,Wyrm
+1379,4,2,218,58,desert,Drake
+1380,0,4,272,116,air,Flying Serpent
+1381,4,2,210,70,desert,Drake
+1382,0,2,309,114,air,Flying Serpent
+1383,2,2,202,54,volcanoes,Drake
+1384,2,2,122,200,volcanoes,Wyvern
+1385,4,0,244,64,swamp,Serpent
+1386,4,0,235,54,swamp,Serpent
+1387,2,4,136,189,volcanoes,Wyvern
+1388,0,4,286,99,air,Flying Serpent
+1389,0,0,233,61,swamp,Serpent
+1390,0,0,229,64,water,Serpent
+1391,0,2,289,119,air,Flying Serpent
+1392,4,4,128,71,mountain,Dragon
+1393,4,2,167,79,volcanoes,Dragon
+1394,4,0,301,46,cave,Wyrm
+1395,4,2,148,75,mountain,Dragon
+1396,4,0,323,43,swamp,Wyrm
+1397,4,0,313,39,swamp,Wyrm
+1398,4,6,142,79,mountain,Dragon
+1399,0,0,244,74,water,Serpent
+1400,4,2,192,65,volcanoes,Drake
+1401,4,0,248,54,woods,Serpent
+1402,0,2,279,111,air,Flying Serpent
+1403,0,4,300,113,air,Flying Serpent
+1404,0,4,262,112,air,Flying Serpent
+1405,0,2,306,111,air,Flying Serpent
+1406,4,0,304,38,swamp,Wyrm
+1407,4,0,317,49,cave,Wyrm
+1408,4,0,308,39,cave,Wyrm
+1409,2,2,218,50,water,Drake
+1410,4,0,223,60,water,Serpent
+1411,4,6,146,77,mountain,Dragon
+1412,4,2,172,83,volcanoes,Dragon
+1413,0,4,297,106,air,Flying Serpent
+1414,0,0,236,74,water,Serpent
+1415,0,4,260,110,air,Flying Serpent
+1416,0,4,278,117,air,Flying Serpent
+1417,0,2,259,115,air,Flying Serpent
+1418,4,0,337,47,swamp,Wyrm
+1419,4,2,136,65,volcanoes,Dragon
+1420,4,0,311,35,cave,Wyrm
+1421,0,2,297,103,air,Flying Serpent
+1422,0,2,272,124,air,Flying Serpent
+1423,0,0,231,63,air,Serpent
+1424,4,0,298,45,cave,Wyrm
+1425,2,2,212,68,volcanoes,Drake
+1426,4,0,320,46,cave,Wyrm
+1427,4,2,141,85,volcanoes,Dragon
+1428,2,2,215,50,desert,Drake
+1429,4,0,327,42,cave,Wyrm
+1430,4,2,200,69,desert,Drake
+1431,2,2,199,71,water,Drake
+1432,2,4,122,192,volcanoes,Wyvern
+1433,0,4,308,116,air,Flying Serpent
+1434,4,0,317,41,cave,Wyrm
+1435,0,4,312,122,air,Flying Serpent
+1436,4,0,313,42,cave,Wyrm
+1437,2,2,138,215,volcanoes,Wyvern
+1438,4,4,130,79,mountain,Dragon
+1439,0,0,247,59,woods,Serpent
+1440,2,4,119,184,volcanoes,Wyvern
+1441,4,2,163,97,cave,Dragon
+1442,0,0,219,59,swamp,Serpent
+1443,4,6,125,79,volcanoes,Dragon
+1444,4,4,128,88,mountain,Dragon
+1445,4,0,307,40,cave,Wyrm
+1446,0,2,269,109,air,Flying Serpent
+1447,0,4,291,112,air,Flying Serpent
+1448,0,0,240,78,water,Serpent
+1449,0,4,292,118,air,Flying Serpent
+1450,4,0,229,51,woods,Serpent
+1451,2,2,218,69,volcanoes,Drake
+1452,2,2,197,56,water,Drake
+1453,0,4,272,121,air,Flying Serpent
+1454,4,0,337,43,swamp,Wyrm
+1455,2,2,185,64,water,Drake
+1456,0,4,258,111,air,Flying Serpent
+1457,4,4,169,67,mountain,Dragon
+1458,0,0,227,66,woods,Serpent
+1459,4,0,299,47,swamp,Wyrm
+1460,4,2,214,67,volcanoes,Drake
+1461,4,0,341,36,cave,Wyrm
+1462,0,2,307,123,air,Flying Serpent
+1463,4,0,223,51,water,Serpent
+1464,4,4,127,83,mountain,Dragon
+1465,2,2,215,74,volcanoes,Drake
+1466,2,2,193,56,desert,Drake
+1467,2,2,129,195,volcanoes,Wyvern
+1468,0,2,265,111,air,Flying Serpent
+1469,4,0,224,69,water,Serpent
+1470,4,0,313,39,cave,Wyrm
+1471,2,2,195,58,water,Drake
+1472,4,2,196,73,water,Drake
+1473,4,4,163,69,volcanoes,Dragon
+1474,0,0,238,51,water,Serpent
+1475,4,4,128,74,volcanoes,Dragon
+1476,4,6,126,72,cave,Dragon
+1477,2,4,138,207,volcanoes,Wyvern
+1478,2,4,121,185,volcanoes,Wyvern
+1479,4,2,196,52,desert,Drake
+1480,0,2,281,114,air,Flying Serpent
+1481,4,0,342,39,swamp,Wyrm
+1482,2,4,120,185,volcanoes,Wyvern
+1483,4,0,344,46,swamp,Wyrm
+1484,0,4,252,109,air,Flying Serpent
+1485,4,6,154,73,cave,Dragon
+1486,2,2,210,53,water,Drake
+1487,0,0,228,71,woods,Serpent
+1488,2,4,140,222,volcanoes,Wyvern
+1489,2,2,196,73,water,Drake
+1490,4,2,163,96,cave,Dragon
+1491,4,0,247,56,woods,Serpent
+1492,0,0,235,61,swamp,Serpent
+1493,4,0,244,72,air,Serpent
+1494,4,4,160,71,cave,Dragon
+1495,4,0,233,57,water,Serpent
+1496,4,6,140,85,volcanoes,Dragon
+1497,2,2,199,60,desert,Drake
+1498,0,4,306,106,air,Flying Serpent
+1499,2,2,149,212,volcanoes,Wyvern
+1500,4,0,242,66,woods,Serpent
+1501,4,4,137,88,volcanoes,Dragon
+1502,2,2,222,51,volcanoes,Drake
+1503,0,2,266,112,air,Flying Serpent
+1504,0,4,307,124,air,Flying Serpent
+1505,0,4,309,117,air,Flying Serpent
+1506,4,2,188,54,volcanoes,Drake
+1507,0,4,273,111,air,Flying Serpent
+1508,0,2,299,117,air,Flying Serpent
+1509,4,2,206,72,desert,Drake
+1510,0,0,236,74,air,Serpent
+1511,4,6,152,79,mountain,Dragon
+1512,4,0,216,78,air,Serpent
+1513,4,6,160,99,mountain,Dragon
+1514,4,2,205,52,volcanoes,Drake
+1515,2,4,136,216,volcanoes,Wyvern
+1516,2,4,136,199,volcanoes,Wyvern
+1517,4,4,140,87,volcanoes,Dragon
+1518,4,0,241,57,swamp,Serpent
+1519,2,4,123,204,volcanoes,Wyvern
+1520,0,2,282,113,air,Flying Serpent
+1521,4,2,169,80,mountain,Dragon
+1522,4,0,315,38,swamp,Wyrm
+1523,0,4,269,110,air,Flying Serpent
+1524,4,0,319,37,swamp,Wyrm
+1525,0,0,220,74,water,Serpent
+1526,4,6,151,85,volcanoes,Dragon
+1527,4,2,218,62,volcanoes,Drake
+1528,2,4,124,205,volcanoes,Wyvern
+1529,0,4,276,118,air,Flying Serpent
+1530,4,4,171,92,cave,Dragon
+1531,4,0,306,45,swamp,Wyrm
+1532,0,4,267,100,air,Flying Serpent
+1533,0,2,299,124,air,Flying Serpent
+1534,4,0,331,38,cave,Wyrm
+1535,4,0,334,44,swamp,Wyrm
+1536,4,0,243,79,woods,Serpent
+1537,0,2,272,101,air,Flying Serpent
+1538,0,0,239,62,swamp,Serpent
+1539,4,2,131,68,cave,Dragon
+1540,0,2,290,104,air,Flying Serpent
+1541,4,0,326,45,swamp,Wyrm
+1542,4,0,318,37,cave,Wyrm
+1543,4,0,223,68,woods,Serpent
+1544,4,4,126,94,mountain,Dragon
+1545,4,0,248,74,woods,Serpent
+1546,4,0,330,38,swamp,Wyrm
+1547,2,4,132,192,volcanoes,Wyvern
+1548,4,0,344,40,cave,Wyrm
+1549,4,0,223,76,air,Serpent
+1550,4,0,249,65,water,Serpent
+1551,0,0,245,59,air,Serpent
+1552,4,0,305,36,cave,Wyrm
+1553,4,0,298,35,swamp,Wyrm
+1554,4,2,201,55,desert,Drake
+1555,4,4,137,72,volcanoes,Dragon
+1556,4,4,157,83,mountain,Dragon
+1557,2,4,121,175,volcanoes,Wyvern
+1558,0,4,264,113,air,Flying Serpent
+1559,4,0,215,69,air,Serpent
+1560,2,2,142,184,volcanoes,Wyvern
+1561,4,0,217,65,woods,Serpent
+1562,4,2,142,67,volcanoes,Dragon
+1563,4,2,223,63,water,Drake
+1564,4,0,230,60,water,Serpent
+1565,0,0,216,59,air,Serpent
+1566,0,2,311,113,air,Flying Serpent
+1567,4,2,215,58,volcanoes,Drake
+1568,0,4,302,99,air,Flying Serpent
+1569,4,6,157,70,cave,Dragon
+1570,2,2,127,185,volcanoes,Wyvern
+1571,4,0,244,57,woods,Serpent
+1572,4,0,248,72,woods,Serpent
+1573,4,0,241,73,water,Serpent
+1574,0,4,252,109,air,Flying Serpent
+1575,0,2,300,107,air,Flying Serpent
+1576,4,0,321,35,swamp,Wyrm
+1577,2,4,134,177,volcanoes,Wyvern
+1578,4,0,318,37,swamp,Wyrm
+1579,4,2,191,60,volcanoes,Drake
+1580,4,2,174,66,mountain,Dragon
+1581,4,2,168,69,volcanoes,Dragon
+1582,0,0,236,76,woods,Serpent
+1583,4,0,228,56,swamp,Serpent
+1584,0,2,267,102,air,Flying Serpent
+1585,4,0,248,62,water,Serpent
+1586,2,2,117,208,volcanoes,Wyvern
+1587,4,0,327,48,cave,Wyrm
+1588,0,0,236,78,air,Serpent
+1589,4,0,309,36,swamp,Wyrm
+1590,4,0,332,38,swamp,Wyrm
+1591,2,2,146,223,volcanoes,Wyvern
+1592,0,0,237,63,air,Serpent
+1593,2,2,137,195,volcanoes,Wyvern
+1594,0,0,227,66,air,Serpent
+1595,4,0,334,47,cave,Wyrm
+1596,4,0,329,36,swamp,Wyrm
+1597,0,2,306,117,air,Flying Serpent
+1598,4,0,301,47,swamp,Wyrm
+1599,4,2,172,96,volcanoes,Dragon
+1600,2,2,208,57,volcanoes,Drake
+1601,0,0,227,73,woods,Serpent
+1602,4,0,327,38,cave,Wyrm
+1603,0,4,269,123,air,Flying Serpent
+1604,4,0,343,36,swamp,Wyrm
+1605,4,0,318,45,cave,Wyrm
+1606,4,0,216,71,air,Serpent
+1607,4,0,234,71,woods,Serpent
+1608,0,2,266,103,air,Flying Serpent
+1609,4,0,243,66,woods,Serpent
+1610,2,2,120,203,volcanoes,Wyvern
+1611,4,0,334,36,cave,Wyrm
+1612,0,0,242,50,water,Serpent
+1613,4,2,162,96,cave,Dragon
+1614,4,2,223,72,desert,Drake
+1615,0,2,301,112,air,Flying Serpent
+1616,2,2,133,197,volcanoes,Wyvern
+1617,2,4,144,207,volcanoes,Wyvern
+1618,4,0,310,49,cave,Wyrm
+1619,4,6,153,98,cave,Dragon
+1620,2,2,133,218,volcanoes,Wyvern
+1621,4,0,218,50,swamp,Serpent
+1622,4,2,203,51,water,Drake
+1623,4,0,301,41,cave,Wyrm
+1624,4,0,336,39,cave,Wyrm
+1625,4,2,212,68,desert,Drake
+1626,4,0,226,79,air,Serpent
+1627,4,2,142,80,mountain,Dragon
+1628,4,0,310,45,swamp,Wyrm
+1629,4,0,337,43,swamp,Wyrm
+1630,4,0,318,35,cave,Wyrm
+1631,4,2,196,56,water,Drake
+1632,0,4,293,110,air,Flying Serpent
+1633,4,2,204,68,desert,Drake
+1634,4,6,166,70,cave,Dragon
+1635,2,2,200,51,water,Drake
+1636,4,2,169,67,volcanoes,Dragon
+1637,4,4,130,65,cave,Dragon
+1638,4,6,148,94,volcanoes,Dragon
+1639,4,2,203,69,water,Drake
+1640,2,2,141,194,volcanoes,Wyvern
+1641,4,2,166,71,mountain,Dragon
+1642,4,6,153,87,mountain,Dragon
+1643,0,0,232,60,air,Serpent
+1644,0,2,269,111,air,Flying Serpent
+1645,0,2,278,101,air,Flying Serpent
+1646,4,2,134,81,cave,Dragon
+1647,2,2,192,50,water,Drake
+1648,0,4,252,120,air,Flying Serpent
+1649,4,4,130,69,mountain,Dragon
+1650,0,0,221,68,swamp,Serpent
+1651,4,0,315,40,cave,Wyrm
+1652,4,4,150,88,mountain,Dragon
+1653,4,4,130,75,cave,Dragon
+1654,4,0,239,54,air,Serpent
+1655,2,2,199,62,volcanoes,Drake
+1656,4,0,309,49,swamp,Wyrm
+1657,4,0,340,44,cave,Wyrm
+1658,4,0,319,47,swamp,Wyrm
+1659,4,2,203,60,water,Drake
+1660,4,0,298,48,cave,Wyrm
+1661,4,0,314,42,cave,Wyrm
+1662,2,4,116,183,volcanoes,Wyvern
+1663,4,0,318,46,swamp,Wyrm
+1664,0,0,245,58,woods,Serpent
+1665,4,0,337,45,cave,Wyrm
+1666,0,0,248,56,water,Serpent
+1667,4,2,186,50,water,Drake
+1668,4,4,169,65,volcanoes,Dragon
+1669,4,2,152,80,mountain,Dragon
+1670,4,0,310,41,swamp,Wyrm
+1671,4,0,318,35,swamp,Wyrm
+1672,4,0,336,38,swamp,Wyrm
+1673,2,4,149,222,volcanoes,Wyvern
+1674,2,2,220,62,water,Drake
+1675,2,2,139,215,volcanoes,Wyvern
+1676,4,4,147,93,volcanoes,Dragon
+1677,4,0,341,49,cave,Wyrm
+1678,4,0,234,77,water,Serpent
+1679,4,0,215,73,swamp,Serpent
+1680,4,0,304,38,cave,Wyrm
+1681,0,0,243,64,air,Serpent
+1682,4,0,321,48,cave,Wyrm
+1683,0,0,236,60,swamp,Serpent
+1684,4,6,136,91,mountain,Dragon
+1685,0,2,311,109,air,Flying Serpent
+1686,4,0,315,47,cave,Wyrm
+1687,4,0,223,73,swamp,Serpent
+1688,4,2,144,88,cave,Dragon
+1689,2,2,147,184,volcanoes,Wyvern
+1690,4,0,221,52,air,Serpent
+1691,4,4,143,90,volcanoes,Dragon
+1692,4,2,190,71,desert,Drake
+1693,4,0,341,40,swamp,Wyrm
+1694,4,4,126,92,mountain,Dragon
+1695,0,0,216,52,woods,Serpent
+1696,2,2,129,218,volcanoes,Wyvern
+1697,0,0,227,61,swamp,Serpent
+1698,4,4,162,68,volcanoes,Dragon
+1699,0,4,285,123,air,Flying Serpent
+1700,4,2,155,86,cave,Dragon
+1701,0,4,274,113,air,Flying Serpent
+1702,4,2,148,75,cave,Dragon
+1703,4,4,158,70,volcanoes,Dragon
+1704,4,2,221,62,desert,Drake
+1705,0,2,297,99,air,Flying Serpent
+1706,4,0,307,41,cave,Wyrm
+1707,4,2,194,68,water,Drake
+1708,4,6,159,85,volcanoes,Dragon
+1709,2,4,127,215,volcanoes,Wyvern
+1710,4,4,143,99,cave,Dragon
+1711,4,0,323,46,cave,Wyrm
+1712,2,2,211,71,volcanoes,Drake
+1713,4,0,326,38,cave,Wyrm
+1714,4,4,135,73,volcanoes,Dragon
+1715,0,4,301,106,air,Flying Serpent
+1716,4,0,339,45,swamp,Wyrm
+1717,4,0,232,57,woods,Serpent
+1718,2,2,148,210,volcanoes,Wyvern
+1719,4,0,243,60,woods,Serpent
+1720,4,0,308,42,swamp,Wyrm
+1721,2,2,223,57,volcanoes,Drake
+1722,4,0,242,67,water,Serpent
+1723,4,0,335,35,swamp,Wyrm
+1724,2,2,146,188,volcanoes,Wyvern
+1725,4,0,322,40,swamp,Wyrm
+1726,2,2,186,58,volcanoes,Drake
+1727,0,0,226,51,air,Serpent
+1728,0,4,292,118,air,Flying Serpent
+1729,2,4,119,209,volcanoes,Wyvern
+1730,4,2,139,75,cave,Dragon
+1731,0,0,238,60,woods,Serpent
+1732,0,0,234,50,woods,Serpent
+1733,0,0,246,63,air,Serpent
+1734,2,4,146,196,volcanoes,Wyvern
+1735,0,0,215,74,water,Serpent
+1736,4,0,309,36,cave,Wyrm
+1737,4,6,133,72,cave,Dragon
+1738,0,2,253,104,air,Flying Serpent
+1739,2,2,126,190,volcanoes,Wyvern
+1740,0,0,243,74,woods,Serpent
+1741,4,2,198,69,water,Drake
+1742,2,4,149,190,volcanoes,Wyvern
+1743,0,4,307,119,air,Flying Serpent
+1744,4,0,226,63,water,Serpent
+1745,0,0,221,72,swamp,Serpent
+1746,2,4,149,186,volcanoes,Wyvern
+1747,2,4,124,183,volcanoes,Wyvern
+1748,0,0,219,65,air,Serpent
+1749,0,0,244,69,swamp,Serpent
+1750,0,4,254,102,air,Flying Serpent
+1751,0,0,232,67,air,Serpent
+1752,4,0,328,48,cave,Wyrm
+1753,4,0,334,35,cave,Wyrm
+1754,2,2,142,187,volcanoes,Wyvern
+1755,4,2,162,98,cave,Dragon
+1756,0,0,219,66,swamp,Serpent
+1757,4,2,217,63,volcanoes,Drake
+1758,0,4,280,100,air,Flying Serpent
+1759,4,0,333,42,cave,Wyrm
+1760,4,0,308,39,swamp,Wyrm
+1761,0,4,279,108,air,Flying Serpent
+1762,0,4,307,124,air,Flying Serpent
+1763,4,6,137,71,cave,Dragon
+1764,4,2,188,50,volcanoes,Drake
+1765,2,2,134,207,volcanoes,Wyvern
+1766,0,0,242,76,woods,Serpent
+1767,4,0,304,41,cave,Wyrm
+1768,2,4,130,205,volcanoes,Wyvern
+1769,4,2,155,84,mountain,Dragon
+1770,2,2,190,52,water,Drake
+1771,2,4,149,207,volcanoes,Wyvern
+1772,4,4,155,73,mountain,Dragon
+1773,4,6,144,96,volcanoes,Dragon
+1774,4,0,313,35,cave,Wyrm
+1775,0,0,222,58,woods,Serpent
+1776,2,4,115,200,volcanoes,Wyvern
+1777,2,4,128,177,volcanoes,Wyvern
+1778,4,4,162,98,mountain,Dragon
+1779,0,4,282,99,air,Flying Serpent
+1780,0,2,256,106,air,Flying Serpent
+1781,0,2,260,116,air,Flying Serpent
+1782,4,0,323,45,swamp,Wyrm
+1783,4,0,310,42,cave,Wyrm
+1784,2,4,122,207,volcanoes,Wyvern
+1785,2,2,135,211,volcanoes,Wyvern
+1786,4,0,238,73,air,Serpent
+1787,0,2,307,115,air,Flying Serpent
+1788,0,2,273,119,air,Flying Serpent
+1789,4,2,197,74,volcanoes,Drake
+1790,2,2,145,193,volcanoes,Wyvern
+1791,2,2,187,72,volcanoes,Drake
+1792,4,4,128,86,cave,Dragon
+1793,4,4,138,95,cave,Dragon
+1794,4,2,210,59,water,Drake
+1795,2,2,115,211,volcanoes,Wyvern
+1796,2,2,224,55,volcanoes,Drake
+1797,2,4,138,216,volcanoes,Wyvern
+1798,2,2,207,53,water,Drake
+1799,2,2,148,193,volcanoes,Wyvern
+1800,4,6,151,94,mountain,Dragon
+1801,4,2,216,50,desert,Drake
+1802,4,2,200,66,desert,Drake
+1803,4,4,129,96,volcanoes,Dragon
+1804,0,0,216,79,woods,Serpent
+1805,4,0,226,76,water,Serpent
+1806,0,2,297,124,air,Flying Serpent
+1807,2,4,122,218,volcanoes,Wyvern
+1808,4,2,135,87,mountain,Dragon
+1809,4,0,305,36,cave,Wyrm
+1810,0,2,254,100,air,Flying Serpent
+1811,4,0,329,43,cave,Wyrm
+1812,2,2,217,67,desert,Drake
+1813,2,2,188,55,volcanoes,Drake
+1814,2,2,115,182,volcanoes,Wyvern
+1815,0,4,252,99,air,Flying Serpent
+1816,4,2,140,76,cave,Dragon
+1817,0,0,237,57,woods,Serpent
+1818,2,2,120,193,volcanoes,Wyvern
+1819,4,2,215,70,water,Drake
+1820,4,6,125,82,mountain,Dragon
+1821,4,6,153,95,volcanoes,Dragon
+1822,4,0,311,48,cave,Wyrm
+1823,0,2,294,100,air,Flying Serpent
+1824,0,0,236,61,swamp,Serpent
+1825,2,4,123,176,volcanoes,Wyvern
+1826,2,2,206,61,water,Drake
+1827,4,0,228,58,air,Serpent
+1828,2,4,130,190,volcanoes,Wyvern
+1829,4,0,238,64,water,Serpent
+1830,0,0,241,52,swamp,Serpent
+1831,4,0,320,45,cave,Wyrm
+1832,2,4,121,219,volcanoes,Wyvern
+1833,0,4,250,109,air,Flying Serpent
+1834,4,4,130,72,volcanoes,Dragon
+1835,0,0,229,58,water,Serpent
+1836,2,4,125,194,volcanoes,Wyvern
+1837,2,2,137,197,volcanoes,Wyvern
+1838,4,2,220,59,desert,Drake
+1839,2,4,132,219,volcanoes,Wyvern
+1840,4,2,127,94,mountain,Dragon
+1841,0,4,263,100,air,Flying Serpent
+1842,0,2,256,119,air,Flying Serpent
+1843,0,2,272,123,air,Flying Serpent
+1844,4,0,305,40,swamp,Wyrm
+1845,4,4,135,85,volcanoes,Dragon
+1846,2,2,203,60,volcanoes,Drake
+1847,0,0,219,52,swamp,Serpent
+1848,0,4,296,118,air,Flying Serpent
+1849,0,4,280,99,air,Flying Serpent
+1850,0,0,235,73,air,Serpent
+1851,4,0,318,39,swamp,Wyrm
+1852,4,4,153,88,mountain,Dragon
+1853,0,2,263,115,air,Flying Serpent
+1854,2,2,140,195,volcanoes,Wyvern
+1855,2,2,197,68,volcanoes,Drake
+1856,0,4,285,108,air,Flying Serpent
+1857,4,0,299,38,cave,Wyrm
+1858,2,2,215,69,water,Drake
+1859,4,0,335,45,swamp,Wyrm
+1860,0,0,238,72,swamp,Serpent
+1861,2,2,131,216,volcanoes,Wyvern
+1862,4,0,312,35,swamp,Wyrm
+1863,0,2,306,112,air,Flying Serpent
+1864,4,4,128,98,volcanoes,Dragon
+1865,2,2,211,64,volcanoes,Drake
+1866,2,4,144,204,volcanoes,Wyvern
+1867,0,4,272,116,air,Flying Serpent
+1868,4,2,210,58,volcanoes,Drake
+1869,4,0,297,41,cave,Wyrm
+1870,0,0,246,58,water,Serpent
+1871,0,0,247,58,air,Serpent
+1872,0,2,309,124,air,Flying Serpent
+1873,4,2,215,66,desert,Drake
+1874,4,0,219,62,swamp,Serpent
+1875,2,2,217,54,desert,Drake
+1876,0,2,256,101,air,Flying Serpent
+1877,0,4,285,113,air,Flying Serpent
+1878,0,0,237,57,water,Serpent
+1879,4,0,311,41,cave,Wyrm
+1880,4,2,215,70,volcanoes,Drake
+1881,4,2,141,84,volcanoes,Dragon
+1882,4,0,315,48,swamp,Wyrm
+1883,2,2,208,57,volcanoes,Drake
+1884,2,2,219,62,volcanoes,Drake
+1885,4,0,322,44,swamp,Wyrm
+1886,2,4,141,199,volcanoes,Wyvern
+1887,4,2,219,54,water,Drake
+1888,0,0,235,77,water,Serpent
+1889,0,2,267,100,air,Flying Serpent
+1890,4,6,171,67,mountain,Dragon
+1891,0,0,232,58,water,Serpent
+1892,4,0,232,65,water,Serpent
+1893,4,0,342,37,swamp,Wyrm
+1894,0,4,259,124,air,Flying Serpent
+1895,4,2,128,98,cave,Dragon
+1896,2,4,148,203,volcanoes,Wyvern
+1897,2,4,123,184,volcanoes,Wyvern
+1898,0,2,297,110,air,Flying Serpent
+1899,2,4,116,177,volcanoes,Wyvern
+1900,4,0,328,37,swamp,Wyrm
+1901,2,2,214,66,water,Drake
+1902,2,4,144,221,volcanoes,Wyvern
+1903,4,2,159,84,mountain,Dragon
+1904,4,4,158,83,volcanoes,Dragon
+1905,0,0,221,67,swamp,Serpent
+1906,0,4,264,110,air,Flying Serpent
+1907,0,2,250,112,air,Flying Serpent
+1908,0,0,228,73,woods,Serpent
+1909,2,4,149,224,volcanoes,Wyvern
+1910,2,4,131,197,volcanoes,Wyvern
+1911,4,0,311,45,cave,Wyrm
+1912,2,2,187,53,water,Drake
+1913,0,0,238,51,swamp,Serpent
+1914,2,2,138,192,volcanoes,Wyvern
+1915,4,2,189,72,volcanoes,Drake
+1916,4,2,201,54,water,Drake
+1917,0,2,266,120,air,Flying Serpent
+1918,4,6,139,85,volcanoes,Dragon
+1919,4,0,303,49,cave,Wyrm
+1920,0,0,242,65,woods,Serpent
+1921,0,0,216,77,woods,Serpent
+1922,4,2,192,71,volcanoes,Drake
+1923,4,2,202,52,volcanoes,Drake
+1924,2,2,121,184,volcanoes,Wyvern
+1925,0,0,230,58,air,Serpent
+1926,4,2,208,59,volcanoes,Drake
+1927,2,2,124,192,volcanoes,Wyvern
+1928,0,0,218,66,swamp,Serpent
+1929,2,4,122,187,volcanoes,Wyvern
+1930,4,0,298,39,cave,Wyrm
+1931,0,2,255,107,air,Flying Serpent
+1932,2,4,139,205,volcanoes,Wyvern
+1933,0,0,229,55,woods,Serpent
+1934,2,2,124,197,volcanoes,Wyvern
+1935,4,2,199,58,volcanoes,Drake
+1936,4,0,236,68,water,Serpent
+1937,2,2,190,72,desert,Drake
+1938,0,2,258,108,air,Flying Serpent
+1939,0,0,239,63,air,Serpent
+1940,4,0,305,35,cave,Wyrm
+1941,4,0,321,39,swamp,Wyrm
+1942,4,6,132,98,volcanoes,Dragon
+1943,4,0,231,71,woods,Serpent
+1944,4,0,221,51,water,Serpent
+1945,2,2,186,64,water,Drake
+1946,4,2,126,65,cave,Dragon
+1947,4,2,198,73,desert,Drake
+1948,2,2,116,213,volcanoes,Wyvern
+1949,4,0,312,49,swamp,Wyrm
+1950,4,4,163,74,mountain,Dragon
+1951,4,0,310,45,swamp,Wyrm
+1952,2,2,140,178,volcanoes,Wyvern
+1953,2,4,144,179,volcanoes,Wyvern
+1954,2,2,136,183,volcanoes,Wyvern
+1955,2,2,196,68,desert,Drake
+1956,4,2,209,68,water,Drake
+1957,2,2,118,219,volcanoes,Wyvern
+1958,4,4,173,85,volcanoes,Dragon
+1959,4,6,162,89,cave,Dragon
+1960,4,6,135,98,volcanoes,Dragon
+1961,2,4,134,185,volcanoes,Wyvern
+1962,2,2,209,50,desert,Drake
+1963,0,2,311,104,air,Flying Serpent
+1964,2,2,131,179,volcanoes,Wyvern
+1965,2,2,130,183,volcanoes,Wyvern
+1966,0,0,220,78,air,Serpent
+1967,0,0,218,66,water,Serpent
+1968,4,0,317,47,swamp,Wyrm
+1969,0,2,304,105,air,Flying Serpent
+1970,2,2,215,57,desert,Drake
+1971,2,2,212,56,desert,Drake
+1972,0,2,284,113,air,Flying Serpent
+1973,4,0,332,39,cave,Wyrm
+1974,4,0,334,35,cave,Wyrm
+1975,4,2,216,67,water,Drake
+1976,4,0,330,35,cave,Wyrm
+1977,4,6,142,95,mountain,Dragon
+1978,2,4,143,176,volcanoes,Wyvern
+1979,4,0,304,38,cave,Wyrm
+1980,2,4,127,219,volcanoes,Wyvern
+1981,4,0,241,52,water,Serpent
+1982,0,4,306,114,air,Flying Serpent
+1983,0,2,253,116,air,Flying Serpent
+1984,2,2,128,210,volcanoes,Wyvern
+1985,0,0,230,65,swamp,Serpent
+1986,0,2,262,106,air,Flying Serpent
+1987,4,0,297,47,cave,Wyrm
+1988,0,0,239,74,air,Serpent
+1989,2,4,118,181,volcanoes,Wyvern
+1990,4,0,229,67,swamp,Serpent
+1991,4,6,169,92,mountain,Dragon
+1992,0,4,305,108,air,Flying Serpent
+1993,4,4,138,92,mountain,Dragon
+1994,4,2,192,63,water,Drake
+1995,2,2,214,50,volcanoes,Drake
+1996,4,0,337,45,swamp,Wyrm
+1997,2,2,123,211,volcanoes,Wyvern
+1998,0,4,279,118,air,Flying Serpent
+1999,2,2,124,196,volcanoes,Wyvern
+2000,2,2,128,220,volcanoes,Wyvern
+2001,4,2,134,99,cave,Dragon
+2002,0,2,295,106,air,Flying Serpent
+2003,2,2,137,190,volcanoes,Wyvern
+2004,0,4,299,116,air,Flying Serpent
+2005,2,2,146,209,volcanoes,Wyvern
+2006,4,2,185,72,desert,Drake
+2007,4,0,342,38,swamp,Wyrm
+2008,4,0,298,44,cave,Wyrm
+2009,2,2,147,205,volcanoes,Wyvern
+2010,4,2,193,53,water,Drake
+2011,4,0,313,42,cave,Wyrm
+2012,0,2,307,110,air,Flying Serpent
+2013,4,0,317,42,swamp,Wyrm
+2014,0,2,287,113,air,Flying Serpent
+2015,4,4,173,69,mountain,Dragon
+2016,4,0,342,48,swamp,Wyrm
+2017,4,2,201,74,volcanoes,Drake
+2018,2,2,191,69,volcanoes,Drake
+2019,4,0,218,72,woods,Serpent
+2020,2,2,199,55,volcanoes,Drake
+2021,4,6,165,85,mountain,Dragon
+2022,0,2,291,101,air,Flying Serpent
+2023,0,4,251,120,air,Flying Serpent
+2024,0,4,279,109,air,Flying Serpent
+2025,0,2,292,112,air,Flying Serpent
+2026,2,2,216,73,volcanoes,Drake
+2027,4,4,151,72,volcanoes,Dragon
+2028,4,2,212,55,volcanoes,Drake
+2029,0,4,313,102,air,Flying Serpent
+2030,0,0,232,58,woods,Serpent
+2031,0,2,308,114,air,Flying Serpent
+2032,4,2,172,71,mountain,Dragon
+2033,2,2,142,192,volcanoes,Wyvern
+2034,0,4,279,113,air,Flying Serpent
+2035,0,2,281,124,air,Flying Serpent
+2036,4,0,249,78,water,Serpent
+2037,4,0,297,45,swamp,Wyrm
+2038,0,4,253,109,air,Flying Serpent
+2039,2,4,139,179,volcanoes,Wyvern
+2040,0,4,281,107,air,Flying Serpent
+2041,4,0,222,72,swamp,Serpent
+2042,2,4,138,190,volcanoes,Wyvern
+2043,2,2,132,184,volcanoes,Wyvern
+2044,0,0,240,51,air,Serpent
+2045,4,0,231,76,water,Serpent
+2046,4,0,228,55,woods,Serpent
+2047,2,4,123,176,volcanoes,Wyvern
+2048,0,0,232,78,woods,Serpent
+2049,4,0,310,42,swamp,Wyrm
+2050,0,2,300,104,air,Flying Serpent
+2051,2,4,117,182,volcanoes,Wyvern
+2052,2,2,198,59,water,Drake
+2053,0,0,243,76,woods,Serpent
+2054,4,0,305,35,swamp,Wyrm
+2055,0,2,269,123,air,Flying Serpent
+2056,0,2,272,123,air,Flying Serpent
+2057,2,2,117,200,volcanoes,Wyvern
+2058,4,0,343,37,cave,Wyrm
+2059,4,0,327,47,cave,Wyrm
+2060,4,6,144,82,cave,Dragon
+2061,0,4,275,106,air,Flying Serpent
+2062,4,0,318,35,swamp,Wyrm
+2063,4,0,304,42,cave,Wyrm
+2064,4,0,322,35,cave,Wyrm
+2065,4,2,192,57,desert,Drake
+2066,4,0,308,42,swamp,Wyrm
+2067,2,4,125,179,volcanoes,Wyvern
+2068,4,2,196,70,desert,Drake
+2069,4,0,234,72,air,Serpent
+2070,0,4,275,123,air,Flying Serpent
+2071,4,0,301,48,swamp,Wyrm
+2072,2,2,215,65,water,Drake
+2073,0,4,271,99,air,Flying Serpent
+2074,4,2,185,57,desert,Drake
+2075,0,0,242,50,water,Serpent
+2076,0,2,305,112,air,Flying Serpent
+2077,0,0,242,70,woods,Serpent
+2078,2,2,223,60,water,Drake
+2079,0,0,239,68,air,Serpent
+2080,4,0,239,59,air,Serpent
+2081,2,2,117,215,volcanoes,Wyvern
+2082,0,4,272,114,air,Flying Serpent
+2083,0,2,289,123,air,Flying Serpent
+2084,4,0,338,37,cave,Wyrm
+2085,2,2,133,184,volcanoes,Wyvern
+2086,4,0,233,58,air,Serpent
+2087,4,4,172,76,cave,Dragon
+2088,0,0,248,69,water,Serpent
+2089,0,4,268,120,air,Flying Serpent
+2090,2,4,137,189,volcanoes,Wyvern
+2091,0,4,292,118,air,Flying Serpent
+2092,0,0,227,50,swamp,Serpent
+2093,4,0,344,38,cave,Wyrm
+2094,2,4,140,192,volcanoes,Wyvern
+2095,0,0,240,77,swamp,Serpent
+2096,2,4,141,182,volcanoes,Wyvern
+2097,4,6,141,76,volcanoes,Dragon
+2098,0,2,307,113,air,Flying Serpent
+2099,4,4,172,95,cave,Dragon
+2100,0,4,265,115,air,Flying Serpent
+2101,0,2,293,118,air,Flying Serpent
+2102,0,4,303,117,air,Flying Serpent
+2103,4,0,318,39,cave,Wyrm
+2104,0,4,257,110,air,Flying Serpent
+2105,2,4,141,193,volcanoes,Wyvern
+2106,4,0,299,48,cave,Wyrm
+2107,2,4,148,220,volcanoes,Wyvern
+2108,4,0,324,48,cave,Wyrm
+2109,0,2,283,123,air,Flying Serpent
+2110,2,4,117,192,volcanoes,Wyvern
+2111,0,0,238,69,water,Serpent
+2112,2,4,123,203,volcanoes,Wyvern
+2113,4,2,221,56,water,Drake
+2114,4,0,322,48,swamp,Wyrm
+2115,2,4,123,209,volcanoes,Wyvern
+2116,4,0,237,50,water,Serpent
+2117,0,2,313,118,air,Flying Serpent
+2118,4,0,217,64,air,Serpent
+2119,0,2,302,100,air,Flying Serpent
+2120,0,2,287,121,air,Flying Serpent
+2121,4,0,312,47,swamp,Wyrm
+2122,2,4,116,190,volcanoes,Wyvern
+2123,2,4,144,206,volcanoes,Wyvern
+2124,0,4,305,110,air,Flying Serpent
+2125,4,4,125,93,mountain,Dragon
+2126,4,0,245,52,woods,Serpent
+2127,4,2,217,56,volcanoes,Drake
+2128,4,2,224,65,desert,Drake
+2129,4,4,127,81,mountain,Dragon
+2130,2,2,193,53,water,Drake
+2131,4,2,212,52,volcanoes,Drake
+2132,0,0,248,71,water,Serpent
+2133,4,6,161,69,mountain,Dragon
+2134,0,2,253,103,air,Flying Serpent
+2135,2,4,147,180,volcanoes,Wyvern
+2136,0,0,245,69,swamp,Serpent
+2137,4,2,151,99,mountain,Dragon
+2138,4,6,125,75,cave,Dragon
+2139,2,4,147,204,volcanoes,Wyvern
+2140,0,4,250,113,air,Flying Serpent
+2141,4,2,154,76,volcanoes,Dragon
+2142,4,0,231,74,air,Serpent
+2143,0,4,287,108,air,Flying Serpent
+2144,4,6,127,97,mountain,Dragon
+2145,0,2,264,101,air,Flying Serpent
+2146,4,2,174,75,mountain,Dragon
+2147,4,0,244,69,woods,Serpent
+2148,0,2,311,119,air,Flying Serpent
+2149,2,4,123,194,volcanoes,Wyvern
+2150,4,2,148,88,volcanoes,Dragon
+2151,4,2,206,55,desert,Drake
+2152,4,4,163,78,volcanoes,Dragon
+2153,0,2,258,121,air,Flying Serpent
+2154,4,0,306,37,cave,Wyrm
+2155,4,0,297,45,swamp,Wyrm
+2156,0,2,269,122,air,Flying Serpent
+2157,4,0,329,41,cave,Wyrm
+2158,2,2,116,217,volcanoes,Wyvern
+2159,4,0,228,68,air,Serpent
+2160,4,0,326,43,cave,Wyrm
+2161,4,2,127,93,volcanoes,Dragon
+2162,2,4,137,222,volcanoes,Wyvern
+2163,0,0,224,51,woods,Serpent
+2164,0,4,264,119,air,Flying Serpent
+2165,4,4,144,66,cave,Dragon
+2166,2,4,148,224,volcanoes,Wyvern
+2167,2,2,143,215,volcanoes,Wyvern
+2168,4,6,162,99,cave,Dragon
+2169,0,0,242,51,woods,Serpent
+2170,4,6,133,73,mountain,Dragon
+2171,4,0,246,60,swamp,Serpent
+2172,0,4,306,114,air,Flying Serpent
+2173,4,0,301,41,swamp,Wyrm
+2174,2,2,120,180,volcanoes,Wyvern
+2175,4,6,151,79,cave,Dragon
+2176,4,0,334,46,cave,Wyrm
+2177,0,2,305,103,air,Flying Serpent
+2178,4,0,310,49,swamp,Wyrm
+2179,4,0,247,72,air,Serpent
+2180,4,4,141,66,volcanoes,Dragon
+2181,4,0,246,71,water,Serpent
+2182,4,2,197,51,volcanoes,Drake
+2183,2,4,145,207,volcanoes,Wyvern
+2184,0,2,279,114,air,Flying Serpent
+2185,0,2,300,102,air,Flying Serpent
+2186,2,2,211,61,volcanoes,Drake
+2187,0,2,253,110,air,Flying Serpent
+2188,0,0,215,77,water,Serpent
+2189,4,0,319,46,cave,Wyrm
+2190,2,2,144,224,volcanoes,Wyvern
+2191,2,2,210,58,volcanoes,Drake
+2192,4,6,167,71,cave,Dragon
+2193,4,0,313,36,swamp,Wyrm
+2194,2,2,210,57,water,Drake
+2195,0,4,276,122,air,Flying Serpent
+2196,4,0,299,37,swamp,Wyrm
+2197,4,0,240,57,woods,Serpent
+2198,4,2,224,59,water,Drake
+2199,2,4,134,207,volcanoes,Wyvern
+2200,4,4,170,94,volcanoes,Dragon
+2201,4,4,167,84,volcanoes,Dragon
+2202,0,4,267,115,air,Flying Serpent
+2203,0,4,252,118,air,Flying Serpent
+2204,2,2,202,70,volcanoes,Drake
+2205,4,0,301,45,swamp,Wyrm
+2206,2,2,189,72,water,Drake
+2207,4,2,221,71,volcanoes,Drake
+2208,4,0,234,65,air,Serpent
+2209,4,0,220,78,swamp,Serpent
+2210,0,0,230,68,woods,Serpent
+2211,4,4,157,91,volcanoes,Dragon
+2212,4,2,196,70,volcanoes,Drake
+2213,0,0,228,75,woods,Serpent
+2214,4,6,154,94,cave,Dragon
+2215,4,4,158,92,mountain,Dragon
+2216,4,0,334,41,cave,Wyrm
+2217,2,4,140,205,volcanoes,Wyvern
+2218,4,0,335,46,swamp,Wyrm
+2219,4,0,230,72,woods,Serpent
+2220,4,0,244,71,air,Serpent
+2221,2,2,136,205,volcanoes,Wyvern
+2222,2,4,117,203,volcanoes,Wyvern
+2223,2,2,187,66,water,Drake
+2224,0,2,289,108,air,Flying Serpent
+2225,4,4,168,97,volcanoes,Dragon
+2226,0,4,251,103,air,Flying Serpent
+2227,4,0,307,49,swamp,Wyrm
+2228,4,0,218,71,woods,Serpent
+2229,0,0,240,71,woods,Serpent
+2230,0,2,293,104,air,Flying Serpent
+2231,2,2,115,183,volcanoes,Wyvern
+2232,4,2,164,74,cave,Dragon
+2233,2,2,120,197,volcanoes,Wyvern
+2234,0,2,254,121,air,Flying Serpent
+2235,4,0,221,77,swamp,Serpent
+2236,4,0,342,43,cave,Wyrm
+2237,0,4,257,99,air,Flying Serpent
+2238,0,2,284,108,air,Flying Serpent
+2239,4,0,300,47,cave,Wyrm
+2240,0,4,291,123,air,Flying Serpent
+2241,0,2,250,99,air,Flying Serpent
+2242,4,0,236,62,air,Serpent
+2243,4,4,137,76,volcanoes,Dragon
+2244,4,0,324,49,swamp,Wyrm
+2245,4,0,326,41,swamp,Wyrm
+2246,0,4,270,120,air,Flying Serpent
+2247,4,0,332,47,swamp,Wyrm
+2248,4,6,138,86,mountain,Dragon
+2249,4,2,195,55,desert,Drake
+2250,0,0,221,63,air,Serpent
+2251,2,2,125,212,volcanoes,Wyvern
+2252,4,0,339,49,cave,Wyrm
+2253,0,2,276,119,air,Flying Serpent
+2254,2,2,133,201,volcanoes,Wyvern
+2255,4,0,240,59,air,Serpent
+2256,4,0,217,60,swamp,Serpent
+2257,4,0,339,44,swamp,Wyrm
+2258,4,2,153,80,mountain,Dragon
+2259,0,2,282,107,air,Flying Serpent
+2260,4,2,154,77,mountain,Dragon
+2261,4,2,192,57,desert,Drake
+2262,4,6,159,70,mountain,Dragon
+2263,4,0,296,38,cave,Wyrm
+2264,4,6,171,74,volcanoes,Dragon
+2265,0,0,245,63,swamp,Serpent
+2266,0,4,288,106,air,Flying Serpent
+2267,2,2,223,55,desert,Drake
+2268,0,0,231,59,water,Serpent
+2269,2,2,138,189,volcanoes,Wyvern
+2270,4,0,243,51,air,Serpent
+2271,2,2,196,69,desert,Drake
+2272,2,2,127,215,volcanoes,Wyvern
+2273,0,0,232,55,swamp,Serpent
+2274,0,2,286,105,air,Flying Serpent
+2275,0,2,307,122,air,Flying Serpent
+2276,4,0,297,49,cave,Wyrm
+2277,0,2,284,121,air,Flying Serpent
+2278,2,2,203,66,volcanoes,Drake
+2279,4,0,312,42,swamp,Wyrm
+2280,4,0,239,68,swamp,Serpent
+2281,4,0,310,37,cave,Wyrm
+2282,0,0,222,73,swamp,Serpent
+2283,4,6,150,83,mountain,Dragon
+2284,4,2,126,78,mountain,Dragon
+2285,0,0,221,57,air,Serpent
+2286,4,2,139,77,cave,Dragon
+2287,2,2,217,68,water,Drake
+2288,2,4,139,178,volcanoes,Wyvern
+2289,4,0,337,38,cave,Wyrm
+2290,4,0,318,36,cave,Wyrm
+2291,4,4,170,77,mountain,Dragon
+2292,4,2,204,69,volcanoes,Drake
+2293,2,2,214,55,water,Drake
+2294,4,0,299,41,cave,Wyrm
+2295,2,4,119,189,volcanoes,Wyvern
+2296,4,0,327,45,cave,Wyrm
+2297,0,4,260,118,air,Flying Serpent
+2298,4,6,148,70,mountain,Dragon
+2299,4,0,334,47,swamp,Wyrm
+2300,4,2,194,56,water,Drake
+2301,0,4,257,101,air,Flying Serpent
+2302,0,4,285,103,air,Flying Serpent
+2303,4,0,245,72,water,Serpent
+2304,0,0,228,59,water,Serpent
+2305,2,2,216,62,desert,Drake
+2306,4,2,127,66,volcanoes,Dragon
+2307,2,2,196,51,water,Drake
+2308,0,0,229,74,woods,Serpent
+2309,4,6,171,87,mountain,Dragon
+2310,4,0,221,62,water,Serpent
+2311,2,4,146,199,volcanoes,Wyvern
+2312,4,2,154,86,mountain,Dragon
+2313,0,0,242,63,swamp,Serpent
+2314,2,2,189,55,volcanoes,Drake
+2315,2,4,128,198,volcanoes,Wyvern
+2316,0,0,215,71,swamp,Serpent
+2317,4,0,328,42,cave,Wyrm
+2318,0,4,269,101,air,Flying Serpent
+2319,2,2,145,192,volcanoes,Wyvern
+2320,4,0,246,64,swamp,Serpent
+2321,0,0,231,77,woods,Serpent
+2322,4,2,204,70,desert,Drake
+2323,4,0,341,42,cave,Wyrm
+2324,4,0,332,37,swamp,Wyrm
+2325,2,2,122,205,volcanoes,Wyvern
+2326,0,2,287,103,air,Flying Serpent
+2327,2,2,202,63,volcanoes,Drake
+2328,2,4,131,188,volcanoes,Wyvern
+2329,4,0,232,54,air,Serpent
+2330,4,0,308,49,cave,Wyrm
+2331,4,0,317,39,cave,Wyrm
+2332,4,2,169,87,volcanoes,Dragon
+2333,4,2,156,98,cave,Dragon
+2334,0,4,289,100,air,Flying Serpent
+2335,2,2,208,53,desert,Drake
+2336,0,4,292,117,air,Flying Serpent
+2337,0,2,275,110,air,Flying Serpent
+2338,4,0,334,46,cave,Wyrm
+2339,2,2,214,73,volcanoes,Drake
+2340,4,0,295,40,cave,Wyrm
+2341,4,2,198,67,desert,Drake
+2342,2,2,213,71,desert,Drake
+2343,0,2,263,101,air,Flying Serpent
+2344,0,0,231,62,air,Serpent
+2345,4,0,248,55,water,Serpent
+2346,4,2,144,73,cave,Dragon
+2347,4,2,158,92,cave,Dragon
+2348,0,4,268,115,air,Flying Serpent
+2349,2,2,146,204,volcanoes,Wyvern
+2350,4,2,186,72,water,Drake
+2351,0,2,260,110,air,Flying Serpent
+2352,4,0,296,49,swamp,Wyrm
+2353,4,0,344,42,swamp,Wyrm
+2354,4,0,298,48,swamp,Wyrm
+2355,4,2,205,64,volcanoes,Drake
+2356,4,2,144,89,cave,Dragon
+2357,4,0,246,67,air,Serpent
+2358,4,0,227,55,woods,Serpent
+2359,4,0,333,40,cave,Wyrm
+2360,0,0,219,58,air,Serpent
+2361,4,0,312,49,cave,Wyrm
+2362,0,4,294,114,air,Flying Serpent
+2363,0,4,308,101,air,Flying Serpent
+2364,2,2,203,71,water,Drake
+2365,4,6,161,85,mountain,Dragon
+2366,0,2,282,120,air,Flying Serpent
+2367,2,4,139,180,volcanoes,Wyvern
+2368,4,2,216,61,water,Drake
+2369,4,2,202,55,desert,Drake
+2370,4,0,302,39,swamp,Wyrm
+2371,0,4,265,116,air,Flying Serpent
+2372,4,2,215,56,volcanoes,Drake
+2373,4,2,191,56,volcanoes,Drake
+2374,4,0,298,35,cave,Wyrm
+2375,0,4,250,110,air,Flying Serpent
+2376,4,0,231,51,swamp,Serpent
+2377,4,0,307,43,cave,Wyrm
+2378,0,0,234,65,air,Serpent
+2379,4,0,321,49,cave,Wyrm
+2380,2,4,130,199,volcanoes,Wyvern
+2381,4,0,322,37,cave,Wyrm
+2382,2,2,192,65,desert,Drake
+2383,0,4,265,120,air,Flying Serpent
+2384,0,2,265,102,air,Flying Serpent
+2385,4,6,147,76,mountain,Dragon
+2386,2,4,147,175,volcanoes,Wyvern
+2387,0,2,254,117,air,Flying Serpent
+2388,0,4,301,114,air,Flying Serpent
+2389,2,4,117,204,volcanoes,Wyvern
+2390,4,4,162,68,volcanoes,Dragon
+2391,0,2,307,105,air,Flying Serpent
+2392,4,0,336,45,cave,Wyrm
+2393,0,0,220,78,water,Serpent
+2394,4,6,137,76,cave,Dragon
+2395,4,0,315,47,cave,Wyrm
+2396,4,4,150,85,mountain,Dragon
+2397,0,2,250,107,air,Flying Serpent
+2398,2,2,132,207,volcanoes,Wyvern
+2399,4,0,222,61,swamp,Serpent
+2400,0,2,298,116,air,Flying Serpent
+2401,4,0,332,38,swamp,Wyrm
+2402,2,2,121,199,volcanoes,Wyvern
+2403,0,0,238,58,water,Serpent
+2404,4,0,309,47,swamp,Wyrm
+2405,4,0,325,46,cave,Wyrm
+2406,4,0,329,41,swamp,Wyrm
+2407,0,4,251,108,air,Flying Serpent
+2408,2,4,124,193,volcanoes,Wyvern
+2409,4,2,208,63,water,Drake
+2410,0,2,258,107,air,Flying Serpent
+2411,0,2,305,122,air,Flying Serpent
+2412,4,4,147,86,cave,Dragon
+2413,4,4,148,70,volcanoes,Dragon
+2414,4,2,202,58,volcanoes,Drake
+2415,4,0,235,59,woods,Serpent
+2416,4,0,229,77,water,Serpent
+2417,0,2,313,122,air,Flying Serpent
+2418,0,2,276,120,air,Flying Serpent
+2419,4,2,206,71,volcanoes,Drake
+2420,4,0,224,72,woods,Serpent
+2421,2,2,202,73,desert,Drake
+2422,4,0,336,37,swamp,Wyrm
+2423,0,4,271,112,air,Flying Serpent
+2424,4,2,192,51,volcanoes,Drake
+2425,0,2,268,101,air,Flying Serpent
+2426,4,0,310,35,swamp,Wyrm
+2427,0,0,238,76,water,Serpent
+2428,0,0,241,77,woods,Serpent
+2429,0,0,227,68,water,Serpent
+2430,4,0,301,49,cave,Wyrm
+2431,4,0,342,46,swamp,Wyrm
+2432,4,0,316,44,cave,Wyrm
+2433,0,2,301,100,air,Flying Serpent
+2434,4,0,309,42,cave,Wyrm
+2435,4,4,142,88,mountain,Dragon
+2436,4,2,132,82,cave,Dragon
+2437,4,0,325,38,cave,Wyrm
+2438,2,2,200,58,water,Drake
+2439,0,0,223,76,water,Serpent
+2440,0,2,296,121,air,Flying Serpent
+2441,4,2,218,67,volcanoes,Drake
+2442,0,2,268,100,air,Flying Serpent
+2443,0,2,261,101,air,Flying Serpent
+2444,0,2,270,123,air,Flying Serpent
+2445,0,2,281,116,air,Flying Serpent
+2446,4,4,144,84,cave,Dragon
+2447,4,4,161,97,mountain,Dragon
+2448,4,0,309,46,swamp,Wyrm
+2449,0,4,292,111,air,Flying Serpent
+2450,4,2,155,99,volcanoes,Dragon
+2451,0,0,219,79,water,Serpent
+2452,4,0,299,44,swamp,Wyrm
+2453,4,2,142,81,cave,Dragon
+2454,4,0,247,52,woods,Serpent
+2455,4,0,338,39,swamp,Wyrm
+2456,0,2,280,119,air,Flying Serpent
+2457,4,0,299,40,cave,Wyrm
+2458,2,2,133,200,volcanoes,Wyvern
+2459,4,6,157,73,mountain,Dragon
+2460,2,2,135,189,volcanoes,Wyvern
+2461,0,0,217,54,water,Serpent
+2462,2,4,128,218,volcanoes,Wyvern
+2463,4,2,187,57,volcanoes,Drake
+2464,0,2,286,110,air,Flying Serpent
+2465,0,4,278,105,air,Flying Serpent
+2466,2,2,127,220,volcanoes,Wyvern
+2467,4,0,308,41,cave,Wyrm
+2468,0,4,251,123,air,Flying Serpent
+2469,0,0,243,71,air,Serpent
+2470,0,2,266,121,air,Flying Serpent
+2471,4,0,217,73,woods,Serpent
+2472,0,0,224,56,swamp,Serpent
+2473,4,0,310,43,swamp,Wyrm
+2474,2,4,115,185,volcanoes,Wyvern
+2475,4,2,186,73,desert,Drake
+2476,4,0,308,46,swamp,Wyrm
+2477,0,2,277,123,air,Flying Serpent
+2478,4,2,161,80,volcanoes,Dragon
+2479,4,2,223,59,desert,Drake
+2480,4,2,147,81,cave,Dragon
+2481,4,4,163,65,cave,Dragon
+2482,4,0,303,36,swamp,Wyrm
+2483,4,0,225,70,air,Serpent
+2484,4,0,332,35,cave,Wyrm
+2485,0,0,247,57,woods,Serpent
+2486,2,2,134,205,volcanoes,Wyvern
+2487,2,2,131,207,volcanoes,Wyvern
+2488,4,2,162,74,mountain,Dragon
+2489,4,0,328,41,cave,Wyrm
+2490,4,4,142,82,volcanoes,Dragon
+2491,0,2,281,122,air,Flying Serpent
+2492,4,0,343,40,cave,Wyrm
+2493,2,2,190,63,water,Drake
+2494,4,0,215,57,woods,Serpent
+2495,0,0,216,58,water,Serpent
+2496,2,2,213,70,water,Drake
+2497,2,2,207,62,volcanoes,Drake
+2498,0,2,269,122,air,Flying Serpent
+2499,4,4,152,94,mountain,Dragon
+2500,0,0,228,54,woods,Serpent
+2501,0,4,251,116,air,Flying Serpent
+2502,4,0,339,48,cave,Wyrm
+2503,4,2,139,84,mountain,Dragon
+2504,4,2,216,70,water,Drake
+2505,4,2,137,77,volcanoes,Dragon
+2506,2,4,126,185,volcanoes,Wyvern
+2507,4,0,296,43,cave,Wyrm
+2508,0,4,265,118,air,Flying Serpent
+2509,2,2,127,214,volcanoes,Wyvern
+2510,0,2,258,118,air,Flying Serpent
+2511,2,2,199,73,volcanoes,Drake
+2512,4,0,245,51,air,Serpent
+2513,4,4,141,92,cave,Dragon
+2514,0,0,220,54,air,Serpent
+2515,0,4,261,103,air,Flying Serpent
+2516,4,0,239,72,water,Serpent
+2517,4,6,172,81,cave,Dragon
+2518,2,2,190,54,water,Drake
+2519,4,0,344,43,swamp,Wyrm
+2520,4,0,324,47,cave,Wyrm
+2521,0,4,262,117,air,Flying Serpent
+2522,4,2,167,74,volcanoes,Dragon
+2523,2,2,187,63,desert,Drake
+2524,2,2,137,191,volcanoes,Wyvern
+2525,4,0,316,48,cave,Wyrm
+2526,4,0,249,59,water,Serpent
+2527,2,4,143,208,volcanoes,Wyvern
+2528,0,4,257,115,air,Flying Serpent
+2529,4,0,318,35,swamp,Wyrm
+2530,4,4,169,71,mountain,Dragon
+2531,4,0,312,45,swamp,Wyrm
+2532,0,4,295,116,air,Flying Serpent
+2533,4,0,219,78,swamp,Serpent
+2534,2,4,145,176,volcanoes,Wyvern
+2535,4,6,131,98,cave,Dragon
+2536,4,0,215,55,water,Serpent
+2537,4,0,224,67,water,Serpent
+2538,2,2,147,203,volcanoes,Wyvern
+2539,4,0,302,44,cave,Wyrm
+2540,4,0,216,67,woods,Serpent
+2541,0,4,294,108,air,Flying Serpent
+2542,4,0,240,67,air,Serpent
+2543,0,2,284,112,air,Flying Serpent
+2544,4,0,311,35,cave,Wyrm
+2545,0,2,285,107,air,Flying Serpent
+2546,2,4,144,177,volcanoes,Wyvern
+2547,2,2,201,66,volcanoes,Drake
+2548,2,2,192,68,water,Drake
+2549,2,4,144,186,volcanoes,Wyvern
+2550,2,2,207,62,volcanoes,Drake
+2551,2,4,130,184,volcanoes,Wyvern
+2552,0,4,303,111,air,Flying Serpent
+2553,4,2,158,98,mountain,Dragon
+2554,2,2,142,216,volcanoes,Wyvern
+2555,4,0,340,37,swamp,Wyrm
+2556,0,0,246,61,swamp,Serpent
+2557,0,4,267,118,air,Flying Serpent
+2558,2,2,192,66,desert,Drake
+2559,0,0,249,64,swamp,Serpent
+2560,0,4,262,123,air,Flying Serpent
+2561,4,0,306,48,swamp,Wyrm
+2562,0,0,234,61,air,Serpent
+2563,0,4,266,99,air,Flying Serpent
+2564,4,0,330,39,swamp,Wyrm
+2565,4,2,128,97,cave,Dragon
+2566,4,0,300,44,cave,Wyrm
+2567,4,0,313,46,cave,Wyrm
+2568,4,6,147,89,mountain,Dragon
+2569,4,0,300,38,cave,Wyrm
+2570,0,0,236,74,swamp,Serpent
+2571,2,4,118,204,volcanoes,Wyvern
+2572,4,0,295,38,cave,Wyrm
+2573,4,2,172,93,volcanoes,Dragon
+2574,4,4,166,75,mountain,Dragon
+2575,4,0,311,45,swamp,Wyrm
+2576,4,2,224,59,volcanoes,Drake
+2577,2,2,145,213,volcanoes,Wyvern
+2578,2,4,130,219,volcanoes,Wyvern
+2579,0,0,228,53,swamp,Serpent
+2580,2,2,131,192,volcanoes,Wyvern
+2581,4,0,334,40,swamp,Wyrm
+2582,2,2,122,193,volcanoes,Wyvern
+2583,4,0,314,44,cave,Wyrm
+2584,4,0,313,39,cave,Wyrm
+2585,0,0,238,61,water,Serpent
+2586,4,6,165,82,volcanoes,Dragon
+2587,2,4,122,215,volcanoes,Wyvern
+2588,4,2,129,71,volcanoes,Dragon
+2589,0,2,314,117,air,Flying Serpent
+2590,2,4,140,176,volcanoes,Wyvern
+2591,0,4,288,118,air,Flying Serpent
+2592,2,2,136,197,volcanoes,Wyvern
+2593,0,0,231,60,woods,Serpent
+2594,0,2,314,103,air,Flying Serpent
+2595,2,4,123,209,volcanoes,Wyvern
+2596,4,2,221,72,water,Drake
+2597,4,4,167,77,mountain,Dragon
+2598,4,0,303,44,swamp,Wyrm
+2599,0,0,233,50,water,Serpent
+2600,0,2,305,114,air,Flying Serpent
+2601,2,4,141,191,volcanoes,Wyvern
+2602,4,0,323,44,cave,Wyrm
+2603,0,2,267,106,air,Flying Serpent
+2604,4,0,242,66,air,Serpent
+2605,0,2,263,102,air,Flying Serpent
+2606,4,0,325,49,cave,Wyrm
+2607,0,2,302,99,air,Flying Serpent
+2608,4,4,128,72,cave,Dragon
+2609,0,2,294,114,air,Flying Serpent
+2610,4,2,133,85,mountain,Dragon
+2611,0,4,290,121,air,Flying Serpent
+2612,4,2,173,71,mountain,Dragon
+2613,4,4,163,79,mountain,Dragon
+2614,0,4,260,110,air,Flying Serpent
+2615,0,4,250,113,air,Flying Serpent
+2616,4,2,150,97,cave,Dragon
+2617,4,0,247,57,air,Serpent
+2618,4,2,130,88,cave,Dragon
+2619,2,2,130,207,volcanoes,Wyvern
+2620,4,2,141,97,cave,Dragon
+2621,0,4,277,100,air,Flying Serpent
+2622,0,0,246,73,air,Serpent
+2623,2,2,122,204,volcanoes,Wyvern
+2624,0,0,223,69,air,Serpent
+2625,4,0,331,38,cave,Wyrm
+2626,0,2,263,124,air,Flying Serpent
+2627,0,0,233,50,water,Serpent
+2628,0,2,308,123,air,Flying Serpent
+2629,2,4,149,210,volcanoes,Wyvern
+2630,4,2,194,51,desert,Drake
+2631,0,0,249,66,air,Serpent
+2632,2,4,126,179,volcanoes,Wyvern
+2633,0,4,309,112,air,Flying Serpent
+2634,0,2,269,121,air,Flying Serpent
+2635,2,4,145,207,volcanoes,Wyvern
+2636,4,0,309,46,cave,Wyrm
+2637,0,4,295,122,air,Flying Serpent
+2638,4,2,129,74,cave,Dragon
+2639,2,4,133,177,volcanoes,Wyvern
+2640,0,2,311,115,air,Flying Serpent
+2641,0,0,235,71,air,Serpent
+2642,2,2,139,219,volcanoes,Wyvern
+2643,2,4,127,223,volcanoes,Wyvern
+2644,2,2,211,54,volcanoes,Drake
+2645,2,2,220,59,volcanoes,Drake
+2646,4,4,171,96,cave,Dragon
+2647,0,2,281,120,air,Flying Serpent
+2648,2,4,120,193,volcanoes,Wyvern
+2649,0,0,230,71,air,Serpent
+2650,4,2,205,51,volcanoes,Drake
+2651,0,2,301,123,air,Flying Serpent
+2652,0,4,258,117,air,Flying Serpent
+2653,0,0,237,67,water,Serpent
+2654,4,0,331,47,cave,Wyrm
+2655,2,4,143,211,volcanoes,Wyvern
+2656,4,0,314,48,cave,Wyrm
+2657,0,2,274,108,air,Flying Serpent
+2658,0,0,231,63,swamp,Serpent
+2659,0,0,235,56,air,Serpent
+2660,4,0,221,62,swamp,Serpent
+2661,2,2,144,221,volcanoes,Wyvern
+2662,0,0,248,68,woods,Serpent
+2663,4,0,320,35,swamp,Wyrm
+2664,0,2,293,100,air,Flying Serpent
+2665,4,0,231,70,swamp,Serpent
+2666,0,0,229,74,swamp,Serpent
+2667,4,2,189,65,volcanoes,Drake
+2668,4,0,218,57,woods,Serpent
+2669,0,0,237,69,swamp,Serpent
+2670,4,0,230,69,air,Serpent
+2671,2,2,120,214,volcanoes,Wyvern
+2672,4,2,206,53,water,Drake
+2673,4,0,328,45,swamp,Wyrm
+2674,0,2,289,107,air,Flying Serpent
+2675,4,0,342,40,cave,Wyrm
+2676,4,0,245,70,air,Serpent
+2677,0,0,236,53,swamp,Serpent
+2678,0,4,265,120,air,Flying Serpent
+2679,4,2,159,66,cave,Dragon
+2680,4,2,206,65,volcanoes,Drake
+2681,2,2,138,220,volcanoes,Wyvern
+2682,4,2,215,51,volcanoes,Drake
+2683,4,0,249,55,water,Serpent
+2684,4,2,186,60,volcanoes,Drake
+2685,2,2,196,54,volcanoes,Drake
+2686,2,2,199,56,desert,Drake
+2687,4,0,311,43,swamp,Wyrm
+2688,4,0,332,40,cave,Wyrm
+2689,4,0,343,49,swamp,Wyrm
+2690,4,2,136,87,mountain,Dragon
+2691,0,0,244,63,water,Serpent
+2692,0,0,232,69,water,Serpent
+2693,4,0,233,70,swamp,Serpent
+2694,0,0,218,60,woods,Serpent
+2695,4,0,339,36,swamp,Wyrm
+2696,4,2,138,73,volcanoes,Dragon
+2697,0,2,258,118,air,Flying Serpent
+2698,4,0,305,40,swamp,Wyrm
+2699,0,0,242,66,air,Serpent
+2700,4,0,325,43,cave,Wyrm
+2701,4,6,163,96,mountain,Dragon
+2702,4,2,191,60,water,Drake
+2703,4,2,166,84,mountain,Dragon
+2704,2,2,214,54,desert,Drake
+2705,4,0,301,49,cave,Wyrm
+2706,2,2,149,220,volcanoes,Wyvern
+2707,4,2,208,72,volcanoes,Drake
+2708,4,2,162,93,volcanoes,Dragon
+2709,4,0,222,64,woods,Serpent
+2710,2,4,120,175,volcanoes,Wyvern
+2711,4,0,230,67,woods,Serpent
+2712,0,0,226,64,swamp,Serpent
+2713,4,0,301,39,swamp,Wyrm
+2714,2,2,115,219,volcanoes,Wyvern
+2715,4,2,169,94,mountain,Dragon
+2716,2,2,119,205,volcanoes,Wyvern
+2717,4,0,323,35,cave,Wyrm
+2718,0,2,255,100,air,Flying Serpent
+2719,0,2,306,122,air,Flying Serpent
+2720,4,0,332,35,cave,Wyrm
+2721,4,0,316,47,cave,Wyrm
+2722,0,2,277,116,air,Flying Serpent
+2723,2,2,133,221,volcanoes,Wyvern
+2724,4,0,241,68,water,Serpent
+2725,0,2,314,116,air,Flying Serpent
+2726,4,0,297,45,cave,Wyrm
+2727,4,6,145,88,volcanoes,Dragon
+2728,4,2,191,54,water,Drake
+2729,4,0,221,53,water,Serpent
+2730,4,6,141,97,cave,Dragon
+2731,2,2,198,59,water,Drake
+2732,4,0,329,45,swamp,Wyrm
+2733,4,0,332,35,cave,Wyrm
+2734,4,2,187,58,water,Drake
+2735,0,0,241,55,woods,Serpent
+2736,4,6,125,82,mountain,Dragon
+2737,0,4,300,118,air,Flying Serpent
+2738,4,0,224,71,water,Serpent
+2739,0,4,281,124,air,Flying Serpent
+2740,4,0,319,49,swamp,Wyrm
+2741,2,2,202,58,volcanoes,Drake
+2742,4,0,309,41,swamp,Wyrm
+2743,4,0,243,66,swamp,Serpent
+2744,0,0,229,50,air,Serpent
+2745,4,0,319,48,cave,Wyrm
+2746,4,0,240,67,woods,Serpent
+2747,4,0,326,47,swamp,Wyrm
+2748,4,2,211,70,water,Drake
+2749,4,4,150,88,cave,Dragon
+2750,4,6,131,91,volcanoes,Dragon
+2751,0,2,301,124,air,Flying Serpent
+2752,4,0,325,39,swamp,Wyrm
+2753,4,0,302,45,swamp,Wyrm
+2754,2,4,142,180,volcanoes,Wyvern
+2755,0,4,281,111,air,Flying Serpent
+2756,4,0,305,35,swamp,Wyrm
+2757,0,0,219,79,water,Serpent
+2758,4,6,140,70,volcanoes,Dragon
+2759,4,0,301,48,cave,Wyrm
+2760,0,2,303,102,air,Flying Serpent
+2761,4,2,168,81,mountain,Dragon
+2762,0,0,227,50,swamp,Serpent
+2763,0,4,311,107,air,Flying Serpent
+2764,4,0,297,42,swamp,Wyrm
+2765,4,2,202,54,water,Drake
+2766,4,0,215,58,air,Serpent
+2767,2,4,124,191,volcanoes,Wyvern
+2768,4,0,342,42,cave,Wyrm
+2769,4,0,343,40,cave,Wyrm
+2770,0,0,234,76,water,Serpent
+2771,4,2,212,70,volcanoes,Drake
+2772,4,0,308,46,cave,Wyrm
+2773,2,4,118,205,volcanoes,Wyvern
+2774,4,0,341,47,swamp,Wyrm
+2775,2,4,126,215,volcanoes,Wyvern
+2776,0,2,312,122,air,Flying Serpent
+2777,4,0,319,35,cave,Wyrm
+2778,4,2,154,70,volcanoes,Dragon
+2779,0,2,269,111,air,Flying Serpent
+2780,0,0,233,68,water,Serpent
+2781,4,4,171,95,volcanoes,Dragon
+2782,4,0,235,78,air,Serpent
+2783,2,2,119,180,volcanoes,Wyvern
+2784,4,2,192,50,volcanoes,Drake
+2785,4,0,314,47,swamp,Wyrm
+2786,2,2,189,66,volcanoes,Drake
+2787,0,2,259,118,air,Flying Serpent
+2788,4,0,243,59,swamp,Serpent
+2789,4,0,300,46,swamp,Wyrm
+2790,4,2,128,77,cave,Dragon
+2791,0,2,302,108,air,Flying Serpent
+2792,0,0,221,67,swamp,Serpent
+2793,4,2,126,90,mountain,Dragon
+2794,2,2,223,65,desert,Drake
+2795,2,2,134,196,volcanoes,Wyvern
+2796,4,2,174,97,cave,Dragon
+2797,2,2,224,55,desert,Drake
+2798,4,4,160,99,mountain,Dragon
+2799,0,2,309,120,air,Flying Serpent
+2800,4,2,141,83,volcanoes,Dragon
+2801,0,2,275,105,air,Flying Serpent
+2802,0,2,273,113,air,Flying Serpent
+2803,4,4,172,79,cave,Dragon
+2804,4,2,145,96,mountain,Dragon
+2805,4,0,342,35,swamp,Wyrm
+2806,2,2,127,211,volcanoes,Wyvern
+2807,4,6,163,80,volcanoes,Dragon
+2808,4,0,342,36,cave,Wyrm
+2809,4,0,313,49,cave,Wyrm
+2810,4,0,307,40,swamp,Wyrm
+2811,2,2,149,209,volcanoes,Wyvern
+2812,4,2,220,68,water,Drake
+2813,4,2,148,82,mountain,Dragon
+2814,4,0,231,50,woods,Serpent
+2815,4,0,218,60,water,Serpent
+2816,4,0,332,48,cave,Wyrm
+2817,4,2,168,99,mountain,Dragon
+2818,4,2,153,92,volcanoes,Dragon
+2819,4,0,339,36,swamp,Wyrm
+2820,4,0,333,36,swamp,Wyrm
+2821,4,6,128,69,mountain,Dragon
+2822,2,2,116,219,volcanoes,Wyvern
+2823,4,2,125,76,cave,Dragon
+2824,4,4,154,83,mountain,Dragon
+2825,4,0,305,38,cave,Wyrm
+2826,0,0,232,72,swamp,Serpent
+2827,4,6,130,87,cave,Dragon
+2828,0,0,215,52,swamp,Serpent
+2829,4,6,151,83,volcanoes,Dragon
+2830,4,0,326,37,swamp,Wyrm
+2831,2,2,141,180,volcanoes,Wyvern
+2832,4,6,141,81,cave,Dragon
+2833,4,0,244,64,air,Serpent
+2834,4,4,142,66,cave,Dragon
+2835,2,2,126,179,volcanoes,Wyvern
+2836,4,0,220,53,air,Serpent
+2837,4,2,189,68,water,Drake
+2838,0,0,249,56,swamp,Serpent
+2839,2,2,186,74,volcanoes,Drake
+2840,0,4,298,99,air,Flying Serpent
+2841,4,0,225,54,woods,Serpent
+2842,4,2,215,65,desert,Drake
+2843,4,0,217,55,woods,Serpent
+2844,4,6,158,97,mountain,Dragon
+2845,0,4,295,120,air,Flying Serpent
+2846,4,0,218,53,air,Serpent
+2847,0,4,278,117,air,Flying Serpent
+2848,4,0,338,48,swamp,Wyrm
+2849,0,2,253,123,air,Flying Serpent
+2850,4,4,125,92,mountain,Dragon
+2851,2,2,146,224,volcanoes,Wyvern
+2852,0,2,254,113,air,Flying Serpent
+2853,4,0,326,43,cave,Wyrm
+2854,4,4,170,75,cave,Dragon
+2855,4,2,133,82,volcanoes,Dragon
+2856,0,2,304,100,air,Flying Serpent
+2857,4,2,201,73,water,Drake
+2858,0,2,261,111,air,Flying Serpent
+2859,4,0,245,72,air,Serpent
+2860,2,2,116,198,volcanoes,Wyvern
+2861,2,2,128,204,volcanoes,Wyvern
+2862,2,2,147,209,volcanoes,Wyvern
+2863,4,0,321,46,cave,Wyrm
+2864,2,2,218,60,desert,Drake
+2865,4,4,167,78,volcanoes,Dragon
+2866,0,4,275,114,air,Flying Serpent
+2867,2,4,117,186,volcanoes,Wyvern
+2868,4,0,219,71,woods,Serpent
+2869,4,2,205,54,desert,Drake
+2870,4,0,307,39,swamp,Wyrm
+2871,4,2,156,84,cave,Dragon
+2872,4,2,193,66,water,Drake
+2873,4,0,228,76,woods,Serpent
+2874,0,2,258,99,air,Flying Serpent
+2875,0,0,223,72,air,Serpent
+2876,4,4,167,84,mountain,Dragon
+2877,2,2,189,51,desert,Drake
+2878,0,2,252,105,air,Flying Serpent
+2879,2,2,131,211,volcanoes,Wyvern
+2880,4,2,132,94,cave,Dragon
+2881,4,0,239,71,air,Serpent
+2882,0,0,233,79,water,Serpent
+2883,4,0,344,39,swamp,Wyrm
+2884,4,0,243,64,woods,Serpent
+2885,4,0,317,42,cave,Wyrm
+2886,2,2,122,210,volcanoes,Wyvern
+2887,2,4,128,224,volcanoes,Wyvern
+2888,2,4,126,175,volcanoes,Wyvern
+2889,4,0,335,42,cave,Wyrm
+2890,2,4,143,206,volcanoes,Wyvern
+2891,4,0,334,37,cave,Wyrm
+2892,0,2,282,110,air,Flying Serpent
+2893,4,2,194,65,volcanoes,Drake
+2894,2,4,138,193,volcanoes,Wyvern
+2895,0,2,277,105,air,Flying Serpent
+2896,2,4,117,205,volcanoes,Wyvern
+2897,2,2,203,71,water,Drake
+2898,0,0,225,57,air,Serpent
+2899,2,4,139,198,volcanoes,Wyvern
+2900,4,0,226,70,water,Serpent
+2901,0,2,293,105,air,Flying Serpent
+2902,4,4,164,75,cave,Dragon
+2903,2,4,148,217,volcanoes,Wyvern
+2904,4,6,132,70,mountain,Dragon
+2905,4,0,243,71,water,Serpent
+2906,4,0,311,43,swamp,Wyrm
+2907,2,2,124,192,volcanoes,Wyvern
+2908,4,0,312,39,swamp,Wyrm
+2909,2,4,141,208,volcanoes,Wyvern
+2910,4,0,336,46,cave,Wyrm
+2911,4,0,337,42,cave,Wyrm
+2912,0,2,299,102,air,Flying Serpent
+2913,0,4,269,106,air,Flying Serpent
+2914,4,2,152,80,volcanoes,Dragon
+2915,0,2,250,108,air,Flying Serpent
+2916,2,4,142,209,volcanoes,Wyvern
+2917,4,0,241,56,woods,Serpent
+2918,4,2,208,53,volcanoes,Drake
+2919,4,2,200,51,volcanoes,Drake
+2920,4,0,218,76,woods,Serpent
+2921,4,6,126,87,volcanoes,Dragon
+2922,4,6,161,71,volcanoes,Dragon
+2923,0,0,248,62,woods,Serpent
+2924,4,2,217,66,water,Drake
+2925,4,0,340,36,swamp,Wyrm
+2926,4,0,306,41,swamp,Wyrm
+2927,4,0,222,79,air,Serpent
+2928,4,6,148,93,cave,Dragon
+2929,4,2,223,68,volcanoes,Drake
+2930,0,2,292,102,air,Flying Serpent
+2931,0,2,308,104,air,Flying Serpent
+2932,2,2,216,74,volcanoes,Drake
+2933,2,2,221,68,desert,Drake
+2934,0,0,216,65,water,Serpent
+2935,0,4,286,103,air,Flying Serpent
+2936,0,2,252,101,air,Flying Serpent
+2937,0,0,215,56,woods,Serpent
+2938,2,2,130,214,volcanoes,Wyvern
+2939,4,0,311,40,cave,Wyrm
+2940,4,6,167,79,volcanoes,Dragon
+2941,4,0,341,45,cave,Wyrm
+2942,4,6,156,66,cave,Dragon
+2943,4,4,163,67,volcanoes,Dragon
+2944,4,2,139,77,volcanoes,Dragon
+2945,4,0,242,58,woods,Serpent
+2946,4,4,155,74,cave,Dragon
+2947,0,2,282,112,air,Flying Serpent
+2948,2,4,133,222,volcanoes,Wyvern
+2949,2,2,142,207,volcanoes,Wyvern
+2950,2,4,128,178,volcanoes,Wyvern
+2951,4,2,199,56,volcanoes,Drake
+2952,4,0,333,44,swamp,Wyrm
+2953,2,2,136,180,volcanoes,Wyvern
+2954,4,0,299,38,cave,Wyrm
+2955,2,4,117,186,volcanoes,Wyvern
+2956,4,0,300,39,cave,Wyrm
+2957,4,0,237,77,woods,Serpent
+2958,0,4,293,119,air,Flying Serpent
+2959,0,4,287,108,air,Flying Serpent
+2960,4,0,223,75,woods,Serpent
+2961,4,2,192,71,water,Drake
+2962,4,2,214,65,water,Drake
+2963,4,4,142,86,cave,Dragon
+2964,2,2,195,60,desert,Drake
+2965,4,0,320,41,cave,Wyrm
+2966,4,0,344,41,swamp,Wyrm
+2967,4,0,219,55,air,Serpent
+2968,4,0,237,50,woods,Serpent
+2969,0,2,287,100,air,Flying Serpent
+2970,4,2,172,74,cave,Dragon
+2971,4,0,327,42,cave,Wyrm
+2972,4,0,221,72,woods,Serpent
+2973,4,2,129,99,volcanoes,Dragon
+2974,4,0,247,69,air,Serpent
+2975,4,0,218,74,woods,Serpent
+2976,2,2,199,69,water,Drake
+2977,4,2,189,50,desert,Drake
+2978,2,2,122,218,volcanoes,Wyvern
+2979,0,0,233,77,swamp,Serpent
+2980,2,4,148,176,volcanoes,Wyvern
+2981,4,0,307,45,swamp,Wyrm
+2982,0,4,261,103,air,Flying Serpent
+2983,4,0,339,45,swamp,Wyrm
+2984,4,2,190,69,desert,Drake
+2985,0,0,246,66,swamp,Serpent
+2986,0,4,314,124,air,Flying Serpent
+2987,2,4,126,210,volcanoes,Wyvern
+2988,2,2,140,190,volcanoes,Wyvern
+2989,4,2,173,82,mountain,Dragon
+2990,4,0,324,43,cave,Wyrm
+2991,4,0,244,76,water,Serpent
+2992,4,6,138,98,volcanoes,Dragon
+2993,4,0,333,35,cave,Wyrm
+2994,4,6,164,65,volcanoes,Dragon
+2995,4,2,187,50,desert,Drake
+2996,4,0,339,39,cave,Wyrm
+2997,2,4,116,223,volcanoes,Wyvern
+2998,2,4,146,217,volcanoes,Wyvern
+2999,2,2,197,63,water,Drake
+3000,4,2,217,53,desert,Drake
+3001,2,2,197,63,water,Drake
+3002,2,4,124,192,volcanoes,Wyvern
+3003,4,0,243,63,woods,Serpent
+3004,0,4,305,112,air,Flying Serpent
+3005,2,4,143,182,volcanoes,Wyvern
+3006,2,4,124,200,volcanoes,Wyvern
+3007,0,4,261,121,air,Flying Serpent
+3008,4,0,318,36,swamp,Wyrm
+3009,4,4,130,67,mountain,Dragon
+3010,4,2,197,62,water,Drake
+3011,4,4,132,79,mountain,Dragon
+3012,2,2,147,192,volcanoes,Wyvern
+3013,0,0,234,70,air,Serpent
+3014,0,0,246,60,water,Serpent
+3015,0,2,256,114,air,Flying Serpent
+3016,4,2,216,64,desert,Drake
+3017,0,0,236,59,swamp,Serpent
+3018,4,2,199,72,desert,Drake
+3019,4,2,191,53,volcanoes,Drake
+3020,4,0,317,38,swamp,Wyrm
+3021,4,2,207,64,desert,Drake
+3022,2,4,140,217,volcanoes,Wyvern
+3023,4,0,218,75,air,Serpent
+3024,0,4,253,101,air,Flying Serpent
+3025,2,4,144,195,volcanoes,Wyvern
+3026,2,2,116,222,volcanoes,Wyvern
+3027,0,4,273,106,air,Flying Serpent
+3028,0,0,241,57,air,Serpent
+3029,4,0,307,46,cave,Wyrm
+3030,2,2,149,214,volcanoes,Wyvern
+3031,4,0,233,60,air,Serpent
+3032,0,4,290,106,air,Flying Serpent
+3033,4,2,191,72,water,Drake
+3034,4,2,214,71,volcanoes,Drake
+3035,0,0,226,56,air,Serpent
+3036,4,4,129,86,mountain,Dragon
+3037,0,4,303,117,air,Flying Serpent
+3038,2,2,188,74,volcanoes,Drake
+3039,4,6,149,85,volcanoes,Dragon
+3040,4,0,340,36,swamp,Wyrm
+3041,0,2,285,100,air,Flying Serpent
+3042,0,4,253,101,air,Flying Serpent
+3043,0,2,262,120,air,Flying Serpent
+3044,4,4,159,95,cave,Dragon
+3045,4,2,134,82,volcanoes,Dragon
+3046,2,4,135,179,volcanoes,Wyvern
+3047,4,0,324,40,swamp,Wyrm
+3048,0,2,296,116,air,Flying Serpent
+3049,2,2,215,60,water,Drake
+3050,0,2,253,120,air,Flying Serpent
+3051,0,0,228,70,woods,Serpent
+3052,4,4,168,81,mountain,Dragon
+3053,4,0,338,46,cave,Wyrm
+3054,0,4,262,108,air,Flying Serpent
+3055,0,0,247,54,air,Serpent
+3056,0,0,216,74,woods,Serpent
+3057,4,0,298,36,swamp,Wyrm
+3058,4,0,231,68,woods,Serpent
+3059,0,4,268,106,air,Flying Serpent
+3060,0,2,273,105,air,Flying Serpent
