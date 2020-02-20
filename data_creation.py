@@ -3,7 +3,7 @@ import csv
 import os
 
 base_path = os.getcwd()
-data_path = base_path + '\\data_samples\\'
+data_path = base_path + r'\data_samples\\'
 master_data_list = []
 
 
@@ -128,7 +128,7 @@ def add_numbers(some_list):
 
 
 # function to save data to a csv
-def create_csv(some_file, some_list):
+def create_excel(some_file, some_list):
     with open(data_path + some_file, 'w+', newline='') as f:
         writer = csv.DictWriter(f, ['Number', 'Legs', 'Wings', 'Length', 'Height', 'Environment', 'Classification'])
         writer.writeheader()
@@ -154,6 +154,6 @@ add_numbers(master_data_list)
 add_numbers(test_list)
 
 # store the data in spreadsheets
-create_csv('creatures_data_set.csv', master_data_list)
-create_csv('creatures_test_set.csv', test_list)
+create_excel('creatures_data_set.csv', master_data_list)
+create_excel('creatures_test_set.csv', test_list)
 
