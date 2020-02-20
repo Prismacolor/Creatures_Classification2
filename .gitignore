@@ -1,0 +1,35 @@
+# Ignore Python Class, Data, and Cache Files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# ignore log files
+*.log
+
+# ignore data files and csv files
+# *.dat
+# *.csv
+# *.pdf
+# *.docs
+# *.docx
+# *.csv
+# *.txt
+
+# ignore generated image files
+*.svg
+*.png
+
+# ignore unit test coverage files
+# ignore local settings files
+local.py
+
+# ignore chapter xml files
+*.xml
+
+# ignore IntelliJ directories and settings
+*.iml
+.idea/
+
+# ignore xml files
+*.xml
