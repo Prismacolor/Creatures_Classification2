@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
 
 # retrieving the data from the spreadsheet TR
-creatures_file = "Creatures.xlsx"
+creatures_file = "data_samples\\creatures_data_set.xlsx"
 creatures_extract = pandas.read_excel(creatures_file)
 creatures_df = pandas.DataFrame(creatures_extract)
 
@@ -18,7 +18,7 @@ del creatures_df['Creature']
 # print(creatures_df)
 
 # prep the second test set
-test_file = "creatures_test_set.xlsx"
+test_file = "data_samples\\creatures_test_set.xlsx"
 test_extract = pandas.read_excel(test_file)
 test_df = pandas.DataFrame(test_extract)
 del test_df['Creature']

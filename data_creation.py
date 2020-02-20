@@ -1,19 +1,20 @@
 import random
+import csv
+import os
 
+base_path = os.getcwd()
+data_path = base_path + '\\data_samples\\'
 master_data_list = []
 
 
+# functions to create data objects
 def create_wyvern():
-    max_count = 452
+    max_count = 478
     x = 0
-    wyvern_count = 0
     wings = [2, 4]
 
     while x <= max_count:
-        wyvern_count += 1
-
         wyvern = {}
-        wyvern['Number'] = wyvern_count
         wyvern['Legs'] = 2
         wyvern['Wings'] = random.choice(wings)
         wyvern['Length'] = random.randrange(115, 150)
@@ -26,17 +27,13 @@ def create_wyvern():
 
 
 def create_serpent():
-    max_count = 417
+    max_count = 572
     x = 0
-    serpent_count = 0
     legs = [0, 4]
     environment = ['air', 'water', 'woods', 'swamp']
 
     while x <= max_count:
-        serpent_count += 1
-
         serpent = {}
-        serpent['Number'] = serpent_count
         serpent['Legs'] = random.choice(legs)
         serpent['Wings'] = 0
         serpent['Length'] = random.randrange(215, 250)
@@ -49,16 +46,12 @@ def create_serpent():
 
 
 def create_flying_serpent():
-    max_count = 523
+    max_count = 548
     x = 0
-    flying_serpent_count = 0
     wings = [2, 4]
 
     while x <= max_count:
-        flying_serpent_count += 1
-
         flying_serpent = {}
-        flying_serpent['Number'] = flying_serpent_count
         flying_serpent['Legs'] = 0
         flying_serpent['Wings'] = random.choice(wings)
         flying_serpent['Length'] = random.randrange(250, 315)
@@ -71,17 +64,13 @@ def create_flying_serpent():
 
 
 def create_dragon():
-    max_count = 362
+    max_count = 478
     x = 0
-    dragon_count = 0
     wings = [2, 4, 6]
     environment = ['mountain', 'volcanoes', 'cave']
 
     while x <= max_count:
-        dragon_count += 1
-
         dragon = {}
-        dragon['Number'] = dragon_count
         dragon['Legs'] = 4
         dragon['Wings'] = random.choice(wings)
         dragon['Length'] = random.randrange(125, 175)
@@ -94,17 +83,13 @@ def create_dragon():
 
 
 def create_drake():
-    max_count = 425
+    max_count = 472
     x = 0
-    drake_count = 0
     legs = [2, 4]
     environment = ['desert', 'volcanoes', 'water']
 
     while x <= max_count:
-        drake_count += 1
-
         drake = {}
-        drake['Number'] = drake_count
         drake['Legs'] = random.choice(legs)
         drake['Wings'] = 2
         drake['Length'] = random.randrange(185, 225)
@@ -117,16 +102,12 @@ def create_drake():
 
 
 def create_wyrm():
-    max_count = 513
+    max_count = 556
     x = 0
-    wyrm_count = 0
     environment = ['cave', 'swamp']
 
     while x <= max_count:
-        wyrm_count += 1
-
         wyrm = {}
-        wyrm['Number'] = wyrm_count
         wyrm['Legs'] = 4
         wyrm['Wings'] = 0
         wyrm['Length'] = random.randrange(295, 345)
@@ -138,6 +119,25 @@ def create_wyrm():
         x += 1
 
 
+# function to assign numbers to each creature
+def add_numbers(some_list):
+    creature_count = 0
+    for item in some_list:
+        creature_count += 1
+        item['Number'] = creature_count
+
+
+# function to save data to a csv
+def create_csv(some_file, some_list):
+    with open(data_path + some_file, 'w+', newline='') as f:
+        writer = csv.DictWriter(f, ['Number', 'Legs', 'Wings', 'Length', 'Height', 'Environment', 'Classification'])
+        writer.writeheader()
+
+        for item in some_list:
+            writer.writerow(item)
+
+
+# calling all functions
 create_wyvern()
 create_serpent()
 create_flying_serpent()
@@ -145,4 +145,15 @@ create_dragon()
 create_drake()
 create_wyrm()
 
+# shuffle the data and split it into a training and test set
+random.shuffle(master_data_list)
+test_list = master_data_list[-50:]
+del master_data_list[-50:]
+
+add_numbers(master_data_list)
+add_numbers(test_list)
+
+# store the data in spreadsheets
+create_csv('creatures_data_set.csv', master_data_list)
+create_csv('creatures_test_set.csv', test_list)
 
