@@ -1,19 +1,4 @@
 Number,Legs,Wings,Length,Height,Environment,Classification
-1,2,2,123,51,cave,Drake
-2,2,2,246,164,volcanoes,Wyvern
-3,4,2,100,69,air,Drake
-4,4,0,584,69,air,Serpent
-5,4,2,447,270,cave,Dragon
-6,0,0,621,37,swamp,Wyrm
-7,0,0,494,46,cave,Wyrm
-8,4,0,585,55,air,Serpent
-9,4,0,642,68,water,Serpent
-10,2,2,123,57,desert,Drake
-11,4,0,639,59,air,Serpent
-12,4,0,537,60,air,Serpent
-13,0,0,500,42,cave,Wyrm
-14,4,2,529,68,air,Flying Serpent
-15,0,0,544,37,cave,Wyrm
 1,4,2,402,252,volcanoes,Dragon
 2,2,2,108,72,air,Drake
 3,4,2,122,68,woods,Drake
