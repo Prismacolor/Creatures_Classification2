@@ -16,13 +16,20 @@ creatures_file = r'data_samples\creatures_data_set.csv'
 creatures_extract = pd.read_csv(creatures_file)
 creatures_df = pd.DataFrame(creatures_extract)
 
-# prep the second test set
+# prep the test set
 test_file = r'data_samples\creatures_test_set.csv'
 test_extract = pd.read_csv(test_file)
 test_df = pd.DataFrame(test_extract)
 
+# prep the second test set
+test_file2 = r'data_samples\creatures_test_set2.csv'
+test_extract2 = pd.read_csv(test_file2)
+test_df2 = pd.DataFrame(test_extract2)
+del test_df2['Number']
+
 
 # ***encode the data***
+# todo: make a functions script that contains this function so i can import into both scripts rather than copying code
 def prepare_data(critter_df):
     # encode the data with custom mappings
     environment_mappings = {'air': 0, 'cave': 1, 'desert': 2, 'swamp': 3, 'volcanoes': 4, 'water': 5, 'woods': 6,
@@ -71,7 +78,7 @@ def create_clusters(critter_df):
     plt.xlabel('Number of clusters')
     plt.ylabel('Distortion')
     plt.savefig('plots\\ideal_k.png')
-    # plt.show()
+    plt.show()
     # the result of this plot shows that 'three' is perhaps the ideal number of clusters for this set
 
 
