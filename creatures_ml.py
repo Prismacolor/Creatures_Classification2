@@ -17,36 +17,29 @@ creatures_df = pandas.DataFrame(creatures_extract)
 # we do not need this initial column, contains no useful data TR
 del creatures_df['Number']
 
-# prep the second test set
+# prep the test set
 test_file = r'data_samples\creatures_test_set.csv'
 test_extract = pandas.read_csv(test_file)
 test_df = pandas.DataFrame(test_extract)
 del test_df['Number']
 
+# prep the second test set
+test_file2 = r'data_samples\creatures_test_set2.csv'
+test_extract2 = pandas.read_csv(test_file2)
+test_df2 = pandas.DataFrame(test_extract2)
+del test_df2['Number']
+
 
 # need to adjust final column to be numbers only TR
 def adjust_data(my_dataframe):
-    # in refinement, may use these mappings vs encoding
-    environment_mappings: {'air': 0,
-                           'cave': 1,
-                           'desert': 2,
-                           'swamp': 3,
-                           'volcanoes': 4,
-                           'water': 5,
-                           'woods': 6
-                           }
+    # use custom encodings
+    environment_mappings = {'air': 0, 'cave': 1, 'desert': 2, 'swamp': 3, 'volcanoes': 4, 'water': 5, 'woods': 6,
+                            'mountain': 7}
+    creature_mappings = {'Dragon': 0, 'Drake': 1, 'Flying Serpent': 2, 'Serpent': 3, 'Wyrm': 4, 'Wyvern': 5}
 
-    creature_mappings: {'Dragon': 0,
-                        'Drake': 1,
-                        'Flying Serpent': 2,
-                        'Serpent': 3,
-                        'Wyrm': 4,
-                        'Wyvern': 5}
+    my_dataframe.Environment = my_dataframe.Environment.map(environment_mappings)
+    my_dataframe.Classification = my_dataframe.Classification.map(creature_mappings)
 
-    data_encoder = preprocessing.LabelEncoder()
-    my_dataframe['Environment'] = data_encoder.fit_transform(my_dataframe['Environment'])
-    my_dataframe['Classification'] = data_encoder.fit_transform(my_dataframe['Classification'])
-    # print(my_dataframe)
     return my_dataframe
 
 
@@ -88,3 +81,8 @@ my_model = classify_data(creatures_fitted_df)
 # test it out
 adjusted_test_data = adjust_data(test_df)
 test_data(adjusted_test_data, my_model)
+
+# try another test
+# test it out
+adjusted_test_data2 = adjust_data(test_df2)
+test_data(adjusted_test_data2, my_model)

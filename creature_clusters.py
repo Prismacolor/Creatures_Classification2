@@ -25,26 +25,14 @@ test_df = pd.DataFrame(test_extract)
 # ***encode the data***
 def prepare_data(critter_df):
     # encode the data with custom mappings
-    environment_mappings: {'air': 0,
-                           'cave': 1,
-                           'desert': 2,
-                           'swamp': 3,
-                           'volcanoes': 4,
-                           'water': 5,
-                           'woods': 6
-                           }
-
-    creature_mappings: {'Dragon': 0,
-                        'Drake': 1,
-                        'Flying Serpent': 2,
-                        'Serpent': 3,
-                        'Wyrm': 4,
-                        'Wyvern': 5}
+    environment_mappings = {'air': 0, 'cave': 1, 'desert': 2, 'swamp': 3, 'volcanoes': 4, 'water': 5, 'woods': 6,
+                            'mountain': 7}
+    creature_mappings = {'Dragon': 0, 'Drake': 1, 'Flying Serpent': 2, 'Serpent': 3, 'Wyrm': 4, 'Wyvern': 5}
 
     # first column is irrelevant
     del critter_df['Number']
-    critter_df.Property = critter_df.Environment.map(environment_mappings)
-    critter_df.Gender = critter_df.Classification.map(creature_mappings)
+    critter_df.Environment = critter_df.Environment.map(environment_mappings)
+    critter_df.Classification = critter_df.Classification.map(creature_mappings)
 
     return critter_df
 
@@ -52,25 +40,25 @@ def prepare_data(critter_df):
 # ***compare features and determine relationships***
 def make_plots(critter_df):
     critter_df.plot(kind='scatter', x='Legs', y='Classification', color='purple')
-    plt.savefig('plots\\gender_to_Power.png')
+    plt.savefig('plots\\legs_class.png')
 
     critter_df.plot(kind='scatter', x='Wings', y='Classification', color='purple')
-    plt.savefig('plots\\side_to_Power.png')
+    plt.savefig('plots\\wings_class.png')
 
     critter_df.plot(kind='scatter', x='Length', y='Classification', color='blue')
-    plt.savefig('plots\\Status_to_Power.png')
+    plt.savefig('plots\\length_class.png')
 
     critter_df.plot(kind='scatter', x='Height', y='Classification', color='blue')
-    plt.savefig('plots\\STR_to_Power.png')
+    plt.savefig('plots\\height_class.png')
 
     critter_df.plot(kind='scatter', x='Environment', y='Classification', color='green')
-    plt.savefig('plots\\Magic_to_Power.png')
+    plt.savefig('plots\\env_class.png')
 
 
 # ***create the clustering model***
 def create_clusters(critter_df):
     # find the ideal K
-    X = np.array(critter_df.drop(['Classifiction'], 1).astype(float))
+    X = np.array(critter_df.drop(['Classification'], 1).astype(float))
     distortions = []
 
     for i in range(1, 11):
@@ -78,12 +66,13 @@ def create_clusters(critter_df):
         km.fit(X)
         distortions.append(km.inertia_)
 
+    plt.figure(0)
     plt.plot(range(1, 11), distortions, marker=0)
     plt.xlabel('Number of clusters')
     plt.ylabel('Distortion')
     plt.savefig('plots\\ideal_k.png')
-    plt.show()
-    # the result of this plot shows that '' is perhaps the ideal number of clusters for this set
+    # plt.show()
+    # the result of this plot shows that 'three' is perhaps the ideal number of clusters for this set
 
 
 def create_final_model(X_train):
@@ -108,7 +97,10 @@ def create_final_model(X_train):
     print(correct / len(X))
 
     # plot the data
-    '''plt.scatter(X_train[:, 0], X_train[:, 1], label='True Position')
+    plt.figure(1)
+    plt.scatter(X[:, 0], X[:, 1], label='True Position')
+    plt.xlabel('Features')
+    plt.ylabel('Classification')
     plt.savefig('plots\\X_train.png')
 
     # plot the clusters
@@ -122,11 +114,11 @@ def create_final_model(X_train):
 
     plt.legend(scatterpoints=1)
     plt.grid()
-    plt.show()'''
+    plt.show()
 
 
 cleaned_creature_df = prepare_data(creatures_df)
-make_plots(cleaned_creature_df)
+# make_plots(cleaned_creature_df)
 create_clusters(cleaned_creature_df)
 create_final_model(cleaned_creature_df)
 
