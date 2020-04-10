@@ -1,51 +1,51 @@
 Number,Legs,Wings,Length,Height,Environment,Classification
-1,2,2,123,51,cave,Drake
-2,2,2,246,164,volcanoes,Wyvern
-3,4,2,100,69,air,Drake
-4,4,0,584,69,air,Serpent
-5,4,2,447,270,cave,Dragon
-6,0,0,621,37,swamp,Wyrm
-7,0,0,494,46,cave,Wyrm
-8,4,0,585,55,air,Serpent
-9,4,0,642,68,water,Serpent
-10,2,2,123,57,desert,Drake
-11,4,0,639,59,air,Serpent
-12,4,0,537,60,air,Serpent
-13,0,0,500,42,cave,Wyrm
-14,4,2,529,68,air,Flying Serpent
-15,0,0,544,37,cave,Wyrm
-1,4,2,402,252,volcanoes,Dragon
-2,2,2,108,72,air,Drake
-3,4,2,122,68,woods,Drake
-4,4,2,119,50,woods,Drake
-5,4,2,355,252,volcanoes,Dragon
-6,2,4,193,134,volcanoes,Wyvern
-7,2,4,235,172,volcanoes,Wyvern
-8,4,0,617,55,air,Serpent
-9,4,0,537,53,air,Serpent
-10,4,0,474,67,water,Serpent
-11,4,4,335,234,volcanoes,Dragon
-12,0,0,473,47,cave,Wyrm
-13,0,0,496,45,cave,Wyrm
-14,2,2,110,68,woods,Drake
-15,2,4,205,132,volcanoes,Wyvern
-16,2,4,235,146,volcanoes,Wyvern
-17,2,4,240,146,volcanoes,Wyvern
-18,4,6,424,213,cave,Dragon
-19,4,0,632,65,air,Serpent
-20,2,4,199,156,volcanoes,Wyvern
-21,2,2,105,62,mountain,Drake
-22,0,0,455,46,swamp,Wyrm
-23,4,2,427,237,volcanoes,Dragon
-24,0,0,638,49,cave,Wyrm
-25,2,2,194,137,volcanoes,Wyvern
-26,0,0,603,44,cave,Wyrm
-27,2,2,100,60,woods,Drake
-28,0,0,565,43,swamp,Wyrm
-29,2,2,118,63,woods,Drake
-30,4,0,512,58,air,Serpent
-31,4,2,479,82,air,Flying Serpent
-32,4,0,454,57,air,Serpent
-33,4,6,437,243,cave,Dragon
-34,4,2,645,78,air,Flying Serpent
-35,4,4,396,206,mountain,Dragon
+1,0,0,525,45,swamp,Wyrm
+2,4,2,619,66,air,Flying Serpent
+3,0,0,488,44,swamp,Wyrm
+4,0,0,504,43,cave,Wyrm
+5,4,0,597,59,water,Serpent
+6,0,0,615,42,swamp,Wyrm
+7,4,0,621,52,air,Serpent
+8,0,0,552,36,cave,Wyrm
+9,4,2,626,76,air,Flying Serpent
+10,4,4,353,254,cave,Dragon
+11,4,2,628,80,air,Flying Serpent
+12,4,2,124,56,woods,Drake
+13,0,0,608,39,swamp,Wyrm
+14,4,0,452,68,water,Serpent
+15,2,4,207,138,volcanoes,Wyvern
+1,0,0,535,38,swamp,Wyrm
+2,4,2,347,239,mountain,Dragon
+3,2,2,119,58,mountain,Drake
+4,0,0,647,40,cave,Wyrm
+5,0,0,641,45,swamp,Wyrm
+6,4,2,598,72,air,Flying Serpent
+7,4,0,554,74,air,Serpent
+8,2,2,213,125,volcanoes,Wyvern
+9,4,2,110,58,woods,Drake
+10,4,2,458,81,air,Flying Serpent
+11,2,4,269,142,volcanoes,Wyvern
+12,2,4,273,127,volcanoes,Wyvern
+13,2,4,204,162,volcanoes,Wyvern
+14,2,2,106,61,mountain,Drake
+15,4,4,404,215,cave,Dragon
+16,0,0,620,39,swamp,Wyrm
+17,0,0,557,43,cave,Wyrm
+18,4,2,120,71,volcanoes,Drake
+19,4,0,548,61,water,Serpent
+20,2,2,253,156,volcanoes,Wyvern
+21,4,0,455,55,water,Serpent
+22,4,2,654,84,air,Flying Serpent
+23,4,4,382,252,volcanoes,Dragon
+24,2,2,117,53,mountain,Drake
+25,2,4,263,127,volcanoes,Wyvern
+26,2,2,120,72,air,Drake
+27,4,0,622,68,air,Serpent
+28,2,2,106,69,cave,Drake
+29,2,2,227,161,volcanoes,Wyvern
+30,4,2,662,81,air,Flying Serpent
+31,0,0,548,41,swamp,Wyrm
+32,2,2,108,57,cave,Drake
+33,4,0,558,50,air,Serpent
+34,4,4,354,223,mountain,Dragon
+35,4,0,546,72,air,Serpent
