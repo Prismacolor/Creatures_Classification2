@@ -6,7 +6,6 @@ import xlrd
 import openpyxl
 
 # sklearn libraries
-from sklearn.cluster import KMeans
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn import preprocessing
 from sklearn.preprocessing import MinMaxScaler
@@ -64,6 +63,8 @@ def make_plots(critter_df):
 
 
 # ***create the clustering model***
+# todo make into knearest neighbors
+
 def create_clusters(critter_df):
     # find the ideal K
     X = np.array(critter_df.drop(['Classification'], 1).astype(float))
