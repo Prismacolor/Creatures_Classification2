@@ -9,7 +9,7 @@ master_data_list = []
 
 # functions to create data objects
 def create_wyvern():
-    max_count = 725
+    max_count = 1812
     x = 0
     wings = [2, 4]
 
@@ -27,7 +27,7 @@ def create_wyvern():
 
 
 def create_serpent():
-    max_count = 624
+    max_count = 2034
     x = 0
     environment = ['air', 'water']
 
@@ -45,7 +45,7 @@ def create_serpent():
 
 
 def create_flying_serpent():
-    max_count = 618
+    max_count = 1618
     x = 0
 
     while x <= max_count:
@@ -62,7 +62,7 @@ def create_flying_serpent():
 
 
 def create_dragon():
-    max_count = 689
+    max_count = 2575
     x = 0
     wings = [2, 4, 6]
     environment = ['mountain', 'volcanoes', 'cave']
@@ -81,7 +81,7 @@ def create_dragon():
 
 
 def create_drake():
-    max_count = 721
+    max_count = 2302
     x = 0
     legs = [2, 4]
     environment = ['desert', 'volcanoes', 'air', 'woods', 'mountain', 'cave']
@@ -100,7 +100,7 @@ def create_drake():
 
 
 def create_wyrm():
-    max_count = 742
+    max_count = 2021
     x = 0
     environment = ['cave', 'swamp']
 
