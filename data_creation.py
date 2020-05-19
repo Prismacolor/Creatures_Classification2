@@ -6,6 +6,11 @@ base_path = os.getcwd()
 data_path = base_path + r'\data_samples\\'
 master_data_list = []
 
+# todo add male and female with their own ranges and vary ranges by environment
+# idea: add gender and new height and length ranges, maybe include weight? (randomized) then add environment and have that affect the measurements.
+# create a bigger data set, like do between 2 to 3k instances
+# add some over lap
+
 
 # functions to create data objects
 def create_wyvern():
